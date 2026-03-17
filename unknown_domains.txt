@@ -72,7 +72,6 @@
 [UNKNOWN] input=aastu.edu.et | main=aastu.edu.et | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=aauj.edu | main=aauj.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ab.edu | main=ab.edu | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=abaiuniversity.edu.kz | main=abaiuniversity.edu.kz | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=abc.math.msu.su | main=msu.su | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=aberdeen.ac.uk | main=aberdeen.ac.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=abpsjag.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
@@ -99,7 +98,6 @@
 [UNKNOWN] input=aceatech.com | main=aceatech.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=acg.gr | main=acg.gr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=acharya.ac.uz | main=ac.uz | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=acic.eca-jca.edu.au | main=eca-jca.edu.au | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=acjc.edu.sg | main=acjc.edu.sg | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ack.edu.kw | main=ack.edu.kw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=aclab.esys.tsukuba.ac.jp | main=tsukuba.ac.jp | dns=False | web=False | whois=UNKNOWN
@@ -268,7 +266,6 @@
 [UNKNOWN] input=alghias.edu.af | main=alghias.edu.af | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=algolab.cse.yzu.edu.tw | main=yzu.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=algoritmi.uminho.pt | main=uminho.pt | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=alhussan.edu.sa | main=alhussan.edu.sa | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=alibay.az | main=alibay.az | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=alicemiller.school | main=alicemiller.school | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=alife.cs.is.nagoya-u.ac.jp | main=nagoya-u.ac.jp | dns=False | web=False | whois=UNKNOWN
@@ -320,7 +317,9 @@
 [UNKNOWN] input=alumni.intek.edu.vn | main=intek.edu.vn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=alumni.ipl.edu.in | main=ipl.edu.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=alumni.iscac.pt | main=iscac.pt | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=alumni.iust.ac.ir | main=iust.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=alumni.iut.ac.ir | main=iut.ac.ir | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=alumni.khu.ac.ir | main=khu.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=alumni.luiss.it | main=luiss.it | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=alumni.ncyu.edu.tw | main=ncyu.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=alumni.npust.edu.tw | main=npust.edu.tw | dns=False | web=False | whois=UNKNOWN
@@ -328,6 +327,7 @@
 [UNKNOWN] input=alumni.nudt.edu.cn | main=nudt.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=alumni.nuk.edu.tw | main=nuk.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=alumni.osaka-u.ac.jp | main=osaka-u.ac.jp | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=alumni.sbu.ac.ir | main=sbu.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=alumni.soton.ac.uk | main=soton.ac.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=alumni.thu.edu.tw | main=thu.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=alumni.tku.edu.tw | main=tku.edu.tw | dns=False | web=False | whois=UNKNOWN
@@ -395,7 +395,6 @@
 [UNKNOWN] input=aluno.rainhadapaz.g12.br | main=rainhadapaz.g12.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=aluno.sesiam.com.br | main=sesiam.com.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=aluno.sesirs.com.br | main=sesirs.com.br | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=aluno.ufabc.edu.br | main=ufabc.edu.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=aluno.ugs.ed.ao | main=ugs.ed.ao | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=aluno.unig.edu.br | main=unig.edu.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=aluno.unijipa.edu.br | main=unijipa.edu.br | dns=False | web=False | whois=UNKNOWN
@@ -421,6 +420,7 @@
 [UNKNOWN] input=alunos.uminho.pt | main=uminho.pt | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=alunos.unifbv.edu.br | main=unifbv.edu.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=alunos.uniruy.edu.br | main=uniruy.edu.br | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=alunos.upt.pt | main=upt.pt | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=alunosatc.edu.br | main=alunosatc.edu.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=alunosetic.pt | main=alunosetic.pt | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=alunounyleya.com.br | main=alunounyleya.com.br | dns=False | web=False | whois=UNKNOWN
@@ -435,7 +435,6 @@
 [UNKNOWN] input=amail.swufe.edu.cn | main=swufe.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=amaiu.edu.bh | main=amaiu.edu.bh | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=amb.ac.id | main=amb.ac.id | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=amcc.edu.ph | main=amcc.edu.ph | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=amcgrad.edu.gr | main=amcgrad.edu.gr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=americanschooltrujillo.edu.pe | main=americanschooltrujillo.edu.pe | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=amersol.edu.pe | main=amersol.edu.pe | dns=False | web=False | whois=UNKNOWN
@@ -510,7 +509,6 @@
 [UNKNOWN] input=apsfalcons.net | main=apsfalcons.net | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=apsfazilka.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=apsjalandharcantt.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=apsjorhat.org | main=apsjorhat.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=apsk.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=aptechuganda.ac.ug | main=aptechuganda.ac.ug | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=apu.ac.jp | main=apu.ac.jp | dns=False | web=False | whois=UNKNOWN
@@ -530,6 +528,7 @@
 [UNKNOWN] input=arbossa.com.br | main=arbossa.com.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=arbossbc.com.br | main=arbossbc.com.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=arbosscs.com.br | main=arbosscs.com.br | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=arch.iust.ac.ir | main=iust.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=arch.nctu.edu.tw | main=nctu.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=arch.nycu.edu.tw | main=nycu.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=arch1.t.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
@@ -651,6 +650,7 @@
 [UNKNOWN] input=austinc.edu | main=austinc.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=aut.ac.ir | main=aut.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=aut.pub.ro | main=pub.ro | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=auto.iust.ac.ir | main=iust.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=autom.teithe.gr | main=teithe.gr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=autonoma.edu.pe | main=autonoma.edu.pe | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=autuni.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
@@ -667,7 +667,6 @@
 [UNKNOWN] input=aydemfenlisesi.meb.k12.tr | main=meb.k12.tr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ayit.edu.cn | main=ayit.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=aynu.edu.cn | main=aynu.edu.cn | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=ayseabla.k12.tr | main=ayseabla.k12.tr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ayselyuceturkanadolu.meb.k12.tr | main=meb.k12.tr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ayum.anyang.ac.kr | main=anyang.ac.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ayuttech.ac.th | main=ayuttech.ac.th | dns=False | web=False | whois=UNKNOWN
@@ -688,7 +687,6 @@
 [UNKNOWN] input=babelsbergerfilmgymnasium.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=bablake.coventry.sch.uk | main=bablake.coventry.sch.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=bac.edu.cn | main=bac.edu.cn | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=bacaflor.edu.pe | main=bacaflor.edu.pe | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=bacduyenhaedu.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=bachilleratoio.edu.mx | main=bachilleratoio.edu.mx | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=bacstudent.edu.my | main=bacstudent.edu.my | dns=False | web=False | whois=UNKNOWN
@@ -720,6 +718,7 @@
 [UNKNOWN] input=barisal-eng.edu.bd | main=barisal-eng.edu.bd | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=bartleysec.edu.sg | main=bartleysec.edu.sg | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=basavainternational.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=baskent.edu.tr | main=baskent.edu.tr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=basu.ac.ir | main=basu.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=bates.ctc.edu | main=ctc.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=batl.k12.tr | main=batl.k12.tr | dns=False | web=False | whois=UNKNOWN
@@ -813,7 +812,6 @@
 [UNKNOWN] input=bfitdoon.com | main=bfitdoon.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=bfstg.ch | main=bfstg.ch | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=bg-steyr.at | main=bg-steyr.at | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=bgbschoolraj.edu.bd | main=bgbschoolraj.edu.bd | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=bges.edu.vn | main=bges.edu.vn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=bggym.dk | main=bggym.dk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=bgonlines.edu.vn | main=bgonlines.edu.vn | dns=False | web=False | whois=UNKNOWN
@@ -870,7 +868,6 @@
 [UNKNOWN] input=bistu.edu.cn | main=bistu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=bisu.edu.cn | main=bisu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=bit-okutama.jp | main=bit-okutama.jp | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=bitadmin.eca-jca.edu.au | main=eca-jca.edu.au | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=biti.edu.cn | main=biti.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=bitseducampus.ac.in | main=bitseducampus.ac.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=bittranchi.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
@@ -1149,7 +1146,6 @@
 [UNKNOWN] input=cc.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=cc.utsunomiya-u.ac.jp | main=utsunomiya-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=cc.yamagata-u.ac.jp | main=yamagata-u.ac.jp | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=cca.ufpb.br | main=ufpb.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ccalumni.meijo-u.ac.jp | main=meijo-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ccb.ac.uk | main=ccb.ac.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ccb.vic.edu.au | main=ccb.vic.edu.au | dns=False | web=False | whois=UNKNOWN
@@ -1306,6 +1302,7 @@
 [UNKNOWN] input=chem.uni.wroc.pl | main=wroc.pl | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=chem.usb.ac.ir | main=usb.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=chembio.nagoya-u.ac.jp | main=nagoya-u.ac.jp | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=chemeng.iust.ac.ir | main=iust.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=chemical.ssn.edu.in | main=ssn.edu.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=chemie.uni-kl.de | main=uni-kl.de | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=chemsys.t.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
@@ -1335,7 +1332,6 @@
 [UNKNOWN] input=chjh.hc.edu.tw | main=hc.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=chjh.tp.edu.tw | main=tp.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=chna.edu.tw | main=chna.edu.tw | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=chodang.ms.kr | main=chodang.ms.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=choithramschoolnorthcampus.com | main=choithramschoolnorthcampus.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=chonbuk.ac.kr | main=chonbuk.ac.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=chonburi.spu.ac.th | main=spu.ac.th | dns=False | web=False | whois=UNKNOWN
@@ -1406,12 +1402,14 @@
 [UNKNOWN] input=cityleicester.leicester.sch.uk | main=cityleicester.leicester.sch.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=cityofglacol.ac.uk | main=cityofglacol.ac.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=cityu.mo | main=cityu.mo | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=cityuniversity.edu | main=cityuniversity.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=civil.iiests.ac.in | main=iiests.ac.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=civil.kyushu-u.ac.jp | main=kyushu-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=civil.nagoya-u.ac.jp | main=nagoya-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=civil.nits.ac.in | main=nits.ac.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=civil.ssn.edu.in | main=ssn.edu.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=civil.uminho.pt | main=uminho.pt | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=civileng.iust.ac.ir | main=iust.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=cjdbgdfos.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=cjlu.edu.cn | main=cjlu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=cjs.zuel.edu.cn | main=zuel.edu.cn | dns=False | web=False | whois=UNKNOWN
@@ -1456,6 +1454,7 @@
 [UNKNOWN] input=club.kyutech.ac.jp | main=kyutech.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=club.wsoc.edu.cn | main=wsoc.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=clvsc.tyc.edu.tw | main=tyc.edu.tw | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=cm.eca-jca.edu.au | main=eca-jca.edu.au | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=cm.info.hiroshima-cu.ac.jp | main=hiroshima-cu.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=cm.kyushu-u.ac.jp | main=kyushu-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=cm.nsysu.edu.tw | main=nsysu.edu.tw | dns=False | web=False | whois=UNKNOWN
@@ -1475,6 +1474,7 @@
 [UNKNOWN] input=cmpardo.pe | main=cmpardo.pe | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=cmpi.gov.bd | main=cmpi.gov.bd | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=cmps.hc.edu.tw | main=hc.edu.tw | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=cmps2.iust.ac.ir | main=iust.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=cmru.ac.th | main=cmru.ac.th | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=cms.phys.s.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=cms2.chiba-c.ed.jp | main=chiba-c.ed.jp | dns=False | web=False | whois=UNKNOWN
@@ -1549,6 +1549,7 @@
 [UNKNOWN] input=colegiowoodcock.edu.mx | main=colegiowoodcock.edu.mx | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=colegiuhermes.ro | main=colegiuhermes.ro | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=colegiulcarol.ro | main=colegiulcarol.ro | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=colegiulcartianu.ro | main=colegiulcartianu.ro | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=coler5.us | main=coler5.us | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=college-em.qc.ca | main=college-em.qc.ca | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=college-narxoz.kz | main=college-narxoz.kz | dns=False | web=False | whois=UNKNOWN
@@ -1574,6 +1575,7 @@
 [UNKNOWN] input=commerce.menofia.edu.eg | main=menofia.edu.eg | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=commerce.sohag.edu.eg | main=sohag.edu.eg | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=commerce.zu.edu.eg | main=zu.edu.eg | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=comp.iust.ac.ir | main=iust.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=comp.susu.ac.ru | main=ac.ru | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=comp.uems.br | main=uems.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=compit.au.edu.eg | main=au.edu.eg | dns=False | web=False | whois=UNKNOWN
@@ -1738,7 +1740,6 @@
 [UNKNOWN] input=csie2.nptu.edu.tw | main=nptu.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=csiic.edu.cn | main=csiic.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=csis.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=csit.edu.cn | main=csit.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=csj.uestc.edu.cn | main=uestc.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=csjh.kl.edu.tw | main=kl.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=csjh.tp.edu.tw | main=tp.edu.tw | dns=False | web=False | whois=UNKNOWN
@@ -1777,7 +1778,6 @@
 [UNKNOWN] input=csustudent.net | main=csustudent.net | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=csxy.zuel.edu.cn | main=zuel.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ct.musabi.ac.jp | main=musabi.ac.jp | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=ct.ufpb.br | main=ufpb.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ctbu.edu.cn | main=ctbu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ctes.hcc.edu.tw | main=hcc.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ctes.ylc.edu.tw | main=ylc.edu.tw | dns=False | web=False | whois=UNKNOWN
@@ -1863,8 +1863,8 @@
 [UNKNOWN] input=d.phys.nagoya-u.ac.jp | main=nagoya-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=d.sxmu.edu.cn | main=sxmu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=da.iwasaki.ac.jp | main=iwasaki.ac.jp | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=daecheong.ms.kr | main=daecheong.ms.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=daegudaejin.es.kr | main=daegudaejin.es.kr | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=daeji.hs.kr | main=daeji.hs.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=daejin.sen.hs.kr | main=sen.hs.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=daejung.hs.kr | main=daejung.hs.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=daemyeong.sen.ms.kr | main=sen.ms.kr | dns=False | web=False | whois=UNKNOWN
@@ -1890,7 +1890,6 @@
 [UNKNOWN] input=darwin.esys.tsukuba.ac.jp | main=tsukuba.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=darwinonline.com.br | main=darwinonline.com.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=darwinschool.tech | main=darwinschool.tech | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=das.sch.sa | main=das.sch.sa | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=databootcamp.com.br | main=databootcamp.com.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=dataescolabrasil.inep.gov.br | main=inep.gov.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=datalab.cs.nthu.edu.tw | main=nthu.edu.tw | dns=False | web=False | whois=UNKNOWN
@@ -1935,6 +1934,7 @@
 [UNKNOWN] input=deelnemers.arcuscollege.nl | main=arcuscollege.nl | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=dei.ac.in | main=dei.ac.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=dei.uminho.pt | main=uminho.pt | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=del.ac.id | main=del.ac.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=delhipublicschoolblb.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=deltaanapolis.com.br | main=deltaanapolis.com.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=deltast.edu | main=deltast.edu | dns=False | web=False | whois=UNKNOWN
@@ -1948,7 +1948,6 @@
 [UNKNOWN] input=dent.zu.edu.eg | main=zu.edu.eg | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=dental.pdn.ac.lk | main=pdn.ac.lk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=depend.gov.ph | main=depend.gov.ph | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=derecho.unca.edu.ar | main=unca.edu.ar | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=derincemtal.meb.k12.tr | main=meb.k12.tr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=desales.co | main=desales.co | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=design.kyushu-u.ac.jp | main=kyushu-u.ac.jp | dns=False | web=False | whois=UNKNOWN
@@ -1983,7 +1982,6 @@
 [UNKNOWN] input=dhtm.edu.vn | main=dhtm.edu.vn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=dhu.edu.cn | main=dhu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=dhw.ac.jp | main=dhw.ac.jp | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=di.ufpb.br | main=ufpb.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=di.uminho.pt | main=uminho.pt | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=diakoffice.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=diamondhss.edu.np | main=diamondhss.edu.np | dns=False | web=False | whois=UNKNOWN
@@ -2085,7 +2083,6 @@
 [UNKNOWN] input=dpsbokaro.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=dpschoolgurgaon.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=dpsdubai.ae | main=dpsdubai.ae | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=dpsfsd.edu.pk | main=dpsfsd.edu.pk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=dpsid.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=dpsjaipur.com | main=dpsjaipur.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=dpsnagpuredu.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
@@ -2094,7 +2091,6 @@
 [UNKNOWN] input=dpu.edu.krd | main=edu.krd | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=dpumail.me | main=dpumail.me | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=dqxy.ntu.edu.cn | main=ntu.edu.cn | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=drgitr.com | main=drgitr.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=driestarleerling.nl | main=driestarleerling.nl | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=droitwichspahigh.worcs.sch.uk | main=droitwichspahigh.worcs.sch.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=drtc.isibang.ac.in | main=isibang.ac.in | dns=False | web=False | whois=UNKNOWN
@@ -2179,6 +2175,7 @@
 [UNKNOWN] input=eaglescollege.ac | main=eaglescollege.ac | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=eak12.org | main=eak12.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=eans-nt.edu.pl | main=eans-nt.edu.pl | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=eastlondonscienceschool.co.uk | main=eastlondonscienceschool.co.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=eastnorfolk.ac.uk | main=eastnorfolk.ac.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=easv365.dk | main=easv365.dk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=eatonville.wednet.edu | main=wednet.edu | dns=False | web=False | whois=UNKNOWN
@@ -2224,7 +2221,6 @@
 [UNKNOWN] input=eco.sanken.osaka-u.ac.jp | main=osaka-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=eco.shimonoseki-cu.ac.jp | main=shimonoseki-cu.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=eco.u-toyama.ac.jp | main=u-toyama.ac.jp | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=eco.unca.edu.ar | main=unca.edu.ar | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ecole404.fr | main=ecole404.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ecolewds.fr | main=ecolewds.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=econ.kobe-u.ac.jp | main=kobe-u.ac.jp | dns=False | web=False | whois=UNKNOWN
@@ -2255,7 +2251,6 @@
 [UNKNOWN] input=edi4-obs.ch | main=edi4-obs.ch | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=edithcowanuni.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=edm.t.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=edn.org.br | main=edn.org.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=edouardbranlycreteil.com | main=edouardbranlycreteil.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=edu-baudimont.com | main=edu-baudimont.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=edu-ccs.cl | main=edu-ccs.cl | dns=False | web=False | whois=UNKNOWN
@@ -2373,6 +2368,7 @@
 [UNKNOWN] input=eins.tu-darmstadt.de | main=tu-darmstadt.de | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=eiraopetus.fi | main=eiraopetus.fi | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=eit.uni-kl.de | main=uni-kl.de | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=eitech.edu.cn | main=eitech.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=eivp-paris.fr | main=eivp-paris.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ejc.edu.sg | main=ejc.edu.sg | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=eklaspurhighschool.edu.bd | main=eklaspurhighschool.edu.bd | dns=False | web=False | whois=UNKNOWN
@@ -2388,6 +2384,7 @@
 [UNKNOWN] input=elearn.ltpss.hk | main=ltpss.hk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=elearning-swakopca.edu.na | main=edu.na | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=elearnkvsroblr.in | main=elearnkvsroblr.in | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=elec.iust.ac.ir | main=iust.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=elec.nara-k.ac.jp | main=nara-k.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=elect.chuo-u.ac.jp | main=chuo-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=elem.frindians.org | main=frindians.org | dns=False | web=False | whois=UNKNOWN
@@ -2469,10 +2466,12 @@
 [UNKNOWN] input=eng.svu.edu.eg | main=svu.edu.eg | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=eng.u-hyogo.ac.jp | main=u-hyogo.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=eng.uerj.br | main=uerj.br | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=eng.ui.ac.ir | main=ui.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=eng.uk.ac.ir | main=uk.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=eng.uz.ac.zw | main=uz.ac.zw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=eng.zu.edu.eg | main=zu.edu.eg | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=engin.edu.mx | main=engin.edu.mx | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=engineering.eca-jca.edu.au | main=eca-jca.edu.au | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=english.xzcit.cn | main=xzcit.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=enib.u-carthage.tn | main=u-carthage.tn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=enicar.u-carthage.tn | main=u-carthage.tn | dns=False | web=False | whois=UNKNOWN
@@ -2482,7 +2481,6 @@
 [UNKNOWN] input=eniso.u-sousse.tn | main=u-sousse.tn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=enmv.u-manouba.tn | main=u-manouba.tn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=enorf.ac.uk | main=enorf.ac.uk | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=ens-lagh.dz | main=ens-lagh.dz | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ens-rennes.fr | main=ens-rennes.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ens-setif.dz | main=ens-setif.dz | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ens.um5.ac.ma | main=um5.ac.ma | dns=False | web=False | whois=UNKNOWN
@@ -2515,6 +2513,7 @@
 [UNKNOWN] input=eojin.sjedums.kr | main=sjedums.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=eom.mech.eng.osaka-u.ac.jp | main=osaka-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ep-student.org | main=ep-student.org | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=ephe.sorbonne.fr | main=sorbonne.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ephs.aoyama.ac.jp | main=aoyama.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=epic.vic.edu.au | main=epic.vic.edu.au | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=episunsa.edu.pe | main=episunsa.edu.pe | dns=False | web=False | whois=UNKNOWN
@@ -2618,6 +2617,7 @@
 [UNKNOWN] input=estudiantes.edu.ec | main=estudiantes.edu.ec | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=estudiantes.ipcftloslagos.cl | main=ipcftloslagos.cl | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=estudiantes.ucbcba.edu.bo | main=ucbcba.edu.bo | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=estudiantes.uo.edu.cu | main=uo.edu.cu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=estudiantes2.edu.ec | main=estudiantes2.edu.ec | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=estudiantesunap.cl | main=estudiantesunap.cl | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=estudiantesunibague.edu.co | main=estudiantesunibague.edu.co | dns=False | web=False | whois=UNKNOWN
@@ -2629,7 +2629,6 @@
 [UNKNOWN] input=et-inf.fho-emden.de | main=fho-emden.de | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=et.esiea-ouest.fr | main=esiea-ouest.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=et.kyushu-u.ac.jp | main=kyushu-u.ac.jp | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=etdu.edu.et | main=etdu.edu.et | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=etsi.us.es | main=us.es | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=etsmtl.net | main=etsmtl.net | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=etu-iepg.fr | main=etu-iepg.fr | dns=False | web=False | whois=UNKNOWN
@@ -2649,6 +2648,7 @@
 [UNKNOWN] input=etu.univ-chlef.dz | main=univ-chlef.dz | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=etu.univ-lille2.fr | main=univ-lille2.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=etu.univ-lyon3.fr | main=univ-lyon3.fr | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=etu.univ-mosta.dz | main=univ-mosta.dz | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=etu.univ-savoie.fr | main=univ-savoie.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=etu.univ-tlse2.fr | main=univ-tlse2.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=etu.upmf-grenoble.fr | main=upmf-grenoble.fr | dns=False | web=False | whois=UNKNOWN
@@ -2660,7 +2660,6 @@
 [UNKNOWN] input=etud.univ-montp2.fr | main=univ-montp2.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=etud.univ-ubs.fr | main=univ-ubs.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=etudiant-boulle.paris | main=etudiant-boulle.paris | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=etudiant.horizonsante-lyon.fr | main=horizonsante-lyon.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=etudiant.mines-nantes.fr | main=mines-nantes.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=etudiant.sciencespo-rennes.fr | main=sciencespo-rennes.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=etudiant.u-pem.fr | main=u-pem.fr | dns=False | web=False | whois=UNKNOWN
@@ -2684,7 +2683,6 @@
 [UNKNOWN] input=ewu.edu.bd | main=ewu.edu.bd | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ex.media.osaka-cu.ac.jp | main=osaka-cu.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ex.nefu.edu.cn | main=nefu.edu.cn | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=exactas.unca.edu.ar | main=unca.edu.ar | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=exatec.itesm.mx | main=itesm.mx | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=expernetecole.re | main=expernetecole.re | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ext.udamail.fr | main=udamail.fr | dns=False | web=False | whois=UNKNOWN
@@ -2693,7 +2691,6 @@
 [UNKNOWN] input=eyc.ac.ir | main=eyc.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=eynesbury.sa.edu.au | main=eynesbury.sa.edu.au | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=eznwroclaw.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=ezu.cn | main=ezu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=f-arts.helwan.edu.eg | main=helwan.edu.eg | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=f-arts.miniauniv.edu.eg | main=miniauniv.edu.eg | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=f.ait.kyushu-u.ac.jp | main=kyushu-u.ac.jp | dns=False | web=False | whois=UNKNOWN
@@ -2738,7 +2735,6 @@
 [UNKNOWN] input=fc.omcd.ac.jp | main=omcd.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=fc.ritsumei.ac.jp | main=ritsumei.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=fcaei.uaem.edu.mx | main=uaem.edu.mx | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=fccc.edu | main=fccc.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=fcdarwin.org.ec | main=fcdarwin.org.ec | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=fci.au.edu.eg | main=au.edu.eg | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=fci.edu.ec | main=fci.edu.ec | dns=False | web=False | whois=UNKNOWN
@@ -2760,13 +2756,13 @@
 [UNKNOWN] input=fdrms.edu.ph | main=fdrms.edu.ph | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=fdseps.u-sousse.tn | main=u-sousse.tn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=fdsschule.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=fe-nuol.edu.la | main=fe-nuol.edu.la | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=fe.edu.vn | main=fe.edu.vn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=feapitsat.com | main=feapitsat.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=fed.idserve.net | main=idserve.net | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=fef.edu.br | main=fef.edu.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=fel.t.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=felsted.org | main=felsted.org | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=femto-st.fr | main=femto-st.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=fepecs.edu.br | main=fepecs.edu.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ferasatsch.ir | main=ferasatsch.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ferdowsmashhad.ac.ir | main=ferdowsmashhad.ac.ir | dns=False | web=False | whois=UNKNOWN
@@ -2776,6 +2772,7 @@
 [UNKNOWN] input=feucanvas.edu.ph | main=feucanvas.edu.ph | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=feyalegria23.edu.pe | main=feyalegria23.edu.pe | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ffjh.tyc.edu.tw | main=tyc.edu.tw | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=fgn.ui.ac.ir | main=ui.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=fgs.org.uk | main=fgs.org.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=fgv.edu.br | main=fgv.edu.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=fgvmail.br | main=fgvmail.br | dns=False | web=False | whois=UNKNOWN
@@ -2871,6 +2868,7 @@
 [UNKNOWN] input=fpmoz.ba | main=fpmoz.ba | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=fpseagles.com | main=fpseagles.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=fpthcm.edu.vn | main=fpthcm.edu.vn | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=fpuna.edu.py | main=fpuna.edu.py | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=fpzornotza.com | main=fpzornotza.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=franco-nord.ca | main=franco-nord.ca | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=franklincoll.edu | main=franklincoll.edu | dns=False | web=False | whois=UNKNOWN
@@ -3002,7 +3000,6 @@
 [UNKNOWN] input=ga.oita-ct.ac.jp | main=oita-ct.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gabes.r-iset.tn | main=r-iset.tn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gabija.simnet.lt | main=simnet.lt | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=gacariyalur.ac.in | main=gacariyalur.ac.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gae.tnu.edu.tw | main=tnu.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gae.tuis.ac.jp | main=tuis.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gaewon.sen.ms.kr | main=sen.ms.kr | dns=False | web=False | whois=UNKNOWN
@@ -3013,7 +3010,6 @@
 [UNKNOWN] input=galatasarayortaokulu.meb.k12.tr | main=meb.k12.tr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=galatasarayuniv.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=galileisiena.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=galmae.ms.kr | main=galmae.ms.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=game.hoseo.edu | main=hoseo.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gamf.uni-neumann.hu | main=uni-neumann.hu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gamil.hs.kr | main=gamil.hs.kr | dns=False | web=False | whois=UNKNOWN
@@ -3064,6 +3060,7 @@
 [UNKNOWN] input=gdgm.edu.cn | main=gdgm.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gdgpsnewdelhi.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gdin.edu.cn | main=gdin.edu.cn | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=gdmec.edu.cn | main=gdmec.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gdou.edu.cn | main=gdou.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gds2ts.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gdsdxy.cn | main=gdsdxy.cn | dns=False | web=False | whois=UNKNOWN
@@ -3196,6 +3193,7 @@
 [UNKNOWN] input=gmskemnath.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gmsss33d.com | main=gmsss33d.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gmszsn.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=gmu.edu.cn | main=gmu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gmualumni.org | main=gmualumni.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gn.iwasaki.ac.jp | main=iwasaki.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gngrouporg.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
@@ -3234,7 +3232,6 @@
 [UNKNOWN] input=goums.ac.ir | main=goums.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gov.edu.rs | main=gov.edu.rs | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=govsacademy.org | main=govsacademy.org | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=govtpgcdatia.ac.in | main=govtpgcdatia.ac.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=govtpolytechnicujjain.co.in | main=govtpolytechnicujjain.co.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gowoon.sjeduhs.kr | main=sjeduhs.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gpadp.org.in | main=gpadp.org.in | dns=False | web=False | whois=UNKNOWN
@@ -3358,7 +3355,6 @@
 [UNKNOWN] input=gyankunjvidya.edu.np | main=gyankunjvidya.edu.np | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gyc.ac.uk | main=gyc.ac.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gyeongseong.sen.hs.kr | main=sen.hs.kr | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=gyfa-hh.de | main=gyfa-hh.de | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gyhode.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gym-hennef.de | main=gym-hennef.de | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gym-nd.at | main=gym-nd.at | dns=False | web=False | whois=UNKNOWN
@@ -3369,6 +3365,7 @@
 [UNKNOWN] input=gymgev.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gymhelm.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gymholleho.sk | main=gymholleho.sk | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=gymkro.org | main=gymkro.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gymlaucha.blk.de | main=blk.de | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gymls.sk | main=gymls.sk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=gymnasia.me | main=gymnasia.me | dns=False | web=False | whois=UNKNOWN
@@ -3453,7 +3450,6 @@
 [UNKNOWN] input=haruka.otemon.ac.jp | main=otemon.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=harvard.edu.auction | main=edu.auction | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=has.hc.edu.tw | main=hc.edu.tw | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=hasanathighschool.com | main=hasanathighschool.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=hastingsstudents.org | main=hastingsstudents.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=hastudents.us | main=hastudents.us | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=hattonschool.org.uk | main=hattonschool.org.uk | dns=False | web=False | whois=UNKNOWN
@@ -3514,7 +3510,6 @@
 [UNKNOWN] input=heaal.meb.k12.tr | main=meb.k12.tr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=healing-school.email | main=healing-school.email | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=heat.mech.kyushu-u.ac.jp | main=kyushu-u.ac.jp | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=hebau.edu.cn | main=hebau.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=hebcm.edu.cn | main=hebcm.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=hebeinu.edu.cn | main=hebeinu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=heber.org.uk | main=heber.org.uk | dns=False | web=False | whois=UNKNOWN
@@ -3540,7 +3535,6 @@
 [UNKNOWN] input=hep-th.phys.s.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=hep1.phys.ntu.edu.tw | main=ntu.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=hepburn.s.chiba-u.ac.jp | main=chiba-u.ac.jp | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=hercorcollege.edu.ph | main=hercorcollege.edu.ph | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=hermitageacademy.argyll-bute.sch.uk | main=hermitageacademy.argyll-bute.sch.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=hermodsab.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=hessel31.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
@@ -3574,7 +3568,6 @@
 [UNKNOWN] input=hhu.edu.cn | main=hhu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=hhups.tp.edu.tw | main=tp.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=hhvc.edu.cn | main=hhvc.edu.cn | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=hi-joho.ac.jp | main=hi-joho.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=hi-tech.ac.jp | main=hi-tech.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=hi.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=hibbing.edu | main=hibbing.edu | dns=False | web=False | whois=UNKNOWN
@@ -3634,7 +3627,6 @@
 [UNKNOWN] input=hmc.edu.cn | main=hmc.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=hmia.edu.au | main=hmia.edu.au | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=hmischool.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=hmj.or.kr | main=hmj.or.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=hmjh.chc.edu.tw | main=chc.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=hmlc.edu.cn | main=hmlc.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=hmn.shimane-u.ac.jp | main=shimane-u.ac.jp | dns=False | web=False | whois=UNKNOWN
@@ -3785,8 +3777,6 @@
 [UNKNOWN] input=huilieducation.cn | main=huilieducation.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=huishepiscopi.somerset.sch.uk | main=huishepiscopi.somerset.sch.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=hullpublicschools.us | main=hullpublicschools.us | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=hulw.ufpb.br | main=ufpb.br | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=huma.unca.edu.ar | main=unca.edu.ar | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=human.ait.kyushu-u.ac.jp | main=kyushu-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=human.kitakyu-u.ac.jp | main=kitakyu-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=hunan.edu.sl | main=hunan.edu.sl | dns=False | web=False | whois=UNKNOWN
@@ -3931,6 +3921,7 @@
 [UNKNOWN] input=ids-mannheim.de | main=ids-mannheim.de | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ids.mis.nsysu.edu.tw | main=nsysu.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ids.osaka-u.ac.jp | main=osaka-u.ac.jp | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=idt.eitech.edu.cn | main=eitech.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ie.akita-u.ac.jp | main=akita-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ie.meijo-u.ac.jp | main=meijo-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ie.nthu.edu.tw | main=nthu.edu.tw | dns=False | web=False | whois=UNKNOWN
@@ -3978,6 +3969,7 @@
 [UNKNOWN] input=iesseveroochoa.net | main=iesseveroochoa.net | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=iesthosicodina.cat | main=iesthosicodina.cat | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=iestolosa.es | main=iestolosa.es | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=iestpam.edu.pe | main=iestpam.edu.pe | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=iesxulianmagarinos.org | main=iesxulianmagarinos.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=iet.cn | main=iet.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ietalwar.com | main=ietalwar.com | dns=False | web=False | whois=UNKNOWN
@@ -4033,7 +4025,6 @@
 [UNKNOWN] input=iis.ru.ac.th | main=ru.ac.th | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=iis.sinica.edu.tw | main=sinica.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=iis.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=iisdammam.edu.sa | main=iisdammam.edu.sa | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=iisec.ac.jp | main=iisec.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=iismeuccicasarano.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=iit.ens.tn | main=iit.ens.tn | dns=False | web=False | whois=UNKNOWN
@@ -4106,6 +4097,7 @@
 [UNKNOWN] input=inbox.dsum.edu.ua | main=dsum.edu.ua | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=inc.kisarazu.ac.jp | main=kisarazu.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=incheon-ii.icehs.kr | main=icehs.kr | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=ind.iust.ac.ir | main=iust.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=indiragbs.edu.in | main=indiragbs.edu.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=indiraicad.ac.in | main=indiraicad.ac.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=indiraicms.edu.in | main=indiraicms.edu.in | dns=False | web=False | whois=UNKNOWN
@@ -4155,7 +4147,6 @@
 [UNKNOWN] input=institutogomesead.com | main=institutogomesead.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=institutovelez.edu.ar | main=institutovelez.edu.ar | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=institutowashington.edu.mx | main=institutowashington.edu.mx | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=institutpendidikan.ac.id | main=institutpendidikan.ac.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=insu.sen.ms.kr | main=sen.ms.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=insuce.mx | main=insuce.mx | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=intek.edu.vn | main=intek.edu.vn | dns=False | web=False | whois=UNKNOWN
@@ -4164,7 +4155,6 @@
 [UNKNOWN] input=interbayamon.edu | main=interbayamon.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=interfajardo.edu | main=interfajardo.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=intermetro.edu | main=intermetro.edu | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=international.alhussan.edu.sa | main=alhussan.edu.sa | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=intersg.edu | main=intersg.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=intes.u-carthage.tn | main=u-carthage.tn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=intl.zju.edu.cn | main=zju.edu.cn | dns=False | web=False | whois=UNKNOWN
@@ -4202,6 +4192,8 @@
 [UNKNOWN] input=ipl.cs.tcu.ac.jp | main=tcu.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ipl.edu.in | main=ipl.edu.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=iplab.cs.tsukuba.ac.jp | main=tsukuba.ac.jp | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=iple.eca-jca.edu.au | main=eca-jca.edu.au | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=ipm.ir | main=ipm.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ipnl.in2p3.fr | main=in2p3.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ipr-ctr.t.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=iprj.uerj.br | main=uerj.br | dns=False | web=False | whois=UNKNOWN
@@ -4292,7 +4284,6 @@
 [UNKNOWN] input=isimg.u-gabes.tn | main=u-gabes.tn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=isims.u-sfax.tn | main=u-sfax.tn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=isine.ac.in | main=isine.ac.in | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=isis.joshibi.jp | main=joshibi.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=isise.edu.pe | main=isise.edu.pe | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=isit100.fe.it | main=isit100.fe.it | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=isitc.u-sousse.tn | main=u-sousse.tn | dns=False | web=False | whois=UNKNOWN
@@ -4443,6 +4434,7 @@
 [UNKNOWN] input=iucesmag.edu.co | main=iucesmag.edu.co | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=iuj.ac.jp | main=iuj.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=iums.ac.ir | main=iums.ac.ir | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=iust.ac.ir | main=iust.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=iut-blagnac.fr | main=iut-blagnac.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=iut-lannion.fr | main=iut-lannion.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=iut-tlse3.fr | main=iut-tlse3.fr | dns=False | web=False | whois=UNKNOWN
@@ -4473,7 +4465,6 @@
 [UNKNOWN] input=jaea.go.jp | main=jaea.go.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=jaehyun.sen.hs.kr | main=sen.hs.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=jahromu.ac.ir | main=jahromu.ac.ir | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=jaihindcollege.ac.in | main=jaihindcollege.ac.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=jaipuria.com | main=jaipuria.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=jajh.tp.edu.tw | main=tp.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=jakstik.ac.id | main=jakstik.ac.id | dns=False | web=False | whois=UNKNOWN
@@ -4491,6 +4482,7 @@
 [UNKNOWN] input=jawoon.sen.hs.kr | main=sen.hs.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=jbcmail.com | main=jbcmail.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=jbd.moemu.org | main=moemu.org | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=jbnu.ac.kr | main=jbnu.ac.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=jbrel.fr | main=jbrel.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=jc-hem.org | main=jc-hem.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=jc.edu.jm | main=jc.edu.jm | dns=False | web=False | whois=UNKNOWN
@@ -4522,6 +4514,7 @@
 [UNKNOWN] input=jhu.edu.cn | main=jhu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=jhun.edu.cn | main=jhun.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=jiangnan.edu.cn | main=jiangnan.edu.cn | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=jiapeng.eca-jca.edu.au | main=eca-jca.edu.au | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=jic.edu.sa | main=jic.edu.sa | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=jichi.ac.jp | main=jichi.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=jift.edu.cn | main=jift.edu.cn | dns=False | web=False | whois=UNKNOWN
@@ -4668,6 +4661,7 @@
 [UNKNOWN] input=kanachur.edu.in | main=kanachur.edu.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=kanagawa-it.ac.jp | main=kanagawa-it.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=kanakiais.org | main=kanakiais.org | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=kanataacademyinternational.com | main=kanataacademyinternational.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=kanatech-west.ac.jp | main=kanatech-west.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=kanazawa-gu.ac.jp | main=kanazawa-gu.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=kanda.kifl.ac.jp | main=kifl.ac.jp | dns=False | web=False | whois=UNKNOWN
@@ -4677,6 +4671,7 @@
 [UNKNOWN] input=kangwon-sh.gwe.hs.kr | main=gwe.hs.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=kanizsay.edu.hu | main=edu.hu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=kankyo-u.ac.jp | main=kankyo-u.ac.jp | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=kannuruniv.ac.in | main=kannuruniv.ac.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=kansai-u.ac.jp | main=kansai-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=kansaigaidai.ac.jp | main=kansaigaidai.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=kansaigaidai.jp | main=kansaigaidai.jp | dns=False | web=False | whois=UNKNOWN
@@ -4761,6 +4756,7 @@
 [UNKNOWN] input=khoiminh.edu.vn | main=khoiminh.edu.vn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=khpi.edu.ua | main=khpi.edu.ua | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=khswaverider.k12.hi.us | main=k12.hi.us | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=khu.ac.ir | main=khu.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=khuisf.ac.ir | main=khuisf.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=kibireha.ac.jp | main=kibireha.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=kid.kyoto-art.ac.jp | main=kyoto-art.ac.jp | dns=False | web=False | whois=UNKNOWN
@@ -4864,7 +4860,6 @@
 [UNKNOWN] input=konan.ed.jp | main=konan.ed.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=konawaenahigh.k12.hi.us | main=k12.hi.us | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=konghang.sen.hs.kr | main=sen.hs.kr | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=kongu.edu | main=kongu.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=konkuk.ac.kr | main=konkuk.ac.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=kono.cis.iwate-u.ac.jp | main=iwate-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=konomi.nagaokaut.ac.jp | main=nagaokaut.ac.jp | dns=False | web=False | whois=UNKNOWN
@@ -4992,7 +4987,6 @@
 [UNKNOWN] input=lactec.org.br | main=lactec.org.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ladyoflourdes.edu.ph | main=ladyoflourdes.edu.ph | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=lajoyaisd.net | main=lajoyaisd.net | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=lakeshore.edu.ph | main=lakeshore.edu.ph | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=lal.in2p3.fr | main=in2p3.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=lamda.nju.edu.cn | main=nju.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=lamolina.pe | main=lamolina.pe | dns=False | web=False | whois=UNKNOWN
@@ -5061,6 +5055,7 @@
 [UNKNOWN] input=lelab.t.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=leng.edu.vn | main=leng.edu.vn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=leo10.cse.kyutech.ac.jp | main=kyutech.ac.jp | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=leon.uia.mx | main=uia.mx | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=leonarddevincisoissons.com | main=leonarddevincisoissons.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=lequydon.edu.vn | main=lequydon.edu.vn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=leschartreux.net | main=leschartreux.net | dns=False | web=False | whois=UNKNOWN
@@ -5111,7 +5106,6 @@
 [UNKNOWN] input=lichttechnik.tu-darmstadt.de | main=tu-darmstadt.de | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=licpcas.ac.cn | main=licpcas.ac.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=licsar.schoolrm.ru | main=schoolrm.ru | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=lid.fe-nuol.edu.la | main=fe-nuol.edu.la | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=lidapoly.edu.cn | main=lidapoly.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=liebfrauenschule.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=liessin.g12.br | main=liessin.g12.br | dns=False | web=False | whois=UNKNOWN
@@ -5365,6 +5359,7 @@
 [UNKNOWN] input=mail.aichi-med-u.ac.jp | main=aichi-med-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mail.alumni.edu.vn | main=alumni.edu.vn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mail.apollocc.org | main=apollocc.org | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=mail.baskent.edu.tr | main=baskent.edu.tr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mail.bfa.edu.cn | main=bfa.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mail.bistu.edu.cn | main=bistu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mail.bjou.edu.cn | main=bjou.edu.cn | dns=False | web=False | whois=UNKNOWN
@@ -5479,6 +5474,7 @@
 [UNKNOWN] input=mail.ryukoku.ac.jp | main=ryukoku.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mail.saitama-u.ac.jp | main=saitama-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mail.sao.ru | main=sao.ru | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=mail.sbu.ac.ir | main=sbu.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mail.scuec.edu.cn | main=scuec.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mail.seig.edu.cn | main=seig.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mail.shonai-cit.ac.jp | main=shonai-cit.ac.jp | dns=False | web=False | whois=UNKNOWN
@@ -5628,8 +5624,8 @@
 [UNKNOWN] input=masai.school | main=masai.school | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=master.ec-lyon.fr | main=ec-lyon.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mat.eng.osaka-u.ac.jp | main=osaka-u.ac.jp | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=mat.ufpb.br | main=ufpb.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mataleo.info | main=mataleo.info | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=materchristi.edu.au | main=materchristi.edu.au | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=material.t.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=math.ac.cn | main=math.ac.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=math.akita-u.ac.jp | main=akita-u.ac.jp | dns=False | web=False | whois=UNKNOWN
@@ -5646,6 +5642,7 @@
 [UNKNOWN] input=math.tsukuba.ac.jp | main=tsukuba.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=math.uk.ac.ir | main=uk.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=math.uni.wroc.pl | main=wroc.pl | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=mathdep.iust.ac.ir | main=iust.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mathematik.tu-darmstadt.de | main=tu-darmstadt.de | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mathematik.uni-kl.de | main=uni-kl.de | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=matlab.nitech.ac.jp | main=nitech.ac.jp | dns=False | web=False | whois=UNKNOWN
@@ -5667,7 +5664,6 @@
 [UNKNOWN] input=mba.nits.ac.in | main=nits.ac.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mbhighschool.edu.bd | main=mbhighschool.edu.bd | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mbht.nhs.uk | main=mbht.nhs.uk | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=mborijnland.nu | main=mborijnland.nu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mbs.edu.cn | main=mbs.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mca.edu | main=mca.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mca.manchester.sch.uk | main=mca.manchester.sch.uk | dns=False | web=False | whois=UNKNOWN
@@ -5709,6 +5705,7 @@
 [UNKNOWN] input=mech.sharif.ir | main=sharif.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mech.ssn.edu.in | main=ssn.edu.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mech.t.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=mecheng.iust.ac.ir | main=iust.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mecp.ir | main=mecp.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=med.au.edu.eg | main=au.edu.eg | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=med.edu.ky | main=med.edu.ky | dns=False | web=False | whois=UNKNOWN
@@ -5751,6 +5748,7 @@
 [UNKNOWN] input=mehr.pgu.ac.ir | main=pgu.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mehr.sharif.edu | main=sharif.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mehr.sharif.ir | main=sharif.ir | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=mehr.ui.ac.ir | main=ui.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mehrerau.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mehtacollege.in | main=mehtacollege.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=meiho-gmail.jp | main=meiho-gmail.jp | dns=False | web=False | whois=UNKNOWN
@@ -5781,10 +5779,10 @@
 [UNKNOWN] input=mesl.t.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=met.nagoya-u.ac.jp | main=nagoya-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=metal.iiests.ac.in | main=iiests.ac.in | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=metaleng.iust.ac.ir | main=iust.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=methodistedu.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=metodista.edu.br | main=metodista.edu.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=metrika.sch.id | main=metrika.sch.id | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=metro.ac.th | main=metro.ac.th | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=metropolitanartsinstitute.org | main=metropolitanartsinstitute.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=meybod.ac.ir | main=meybod.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mf.uns.ac.rs | main=uns.ac.rs | dns=False | web=False | whois=UNKNOWN
@@ -5854,7 +5852,6 @@
 [UNKNOWN] input=mis.nsysu.edu.tw | main=nsysu.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mis.ous.ac.jp | main=ous.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=misc.mech.eng.osaka-u.ac.jp | main=osaka-u.ac.jp | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=misd.edu.sa | main=misd.edu.sa | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=miseri.edu | main=miseri.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mist.i.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mist.sen.hs.kr | main=sen.hs.kr | dns=False | web=False | whois=UNKNOWN
@@ -5896,6 +5893,7 @@
 [UNKNOWN] input=mmec.mmdu.org | main=mmdu.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mmgeac.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mmictbm.mmdu.org | main=mmdu.org | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=mmihs.edu.np | main=mmihs.edu.np | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mmim.mmdu.org | main=mmdu.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mmmc.edu.mm | main=mmmc.edu.mm | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mmmhs.manila.edu.ph | main=manila.edu.ph | dns=False | web=False | whois=UNKNOWN
@@ -5929,9 +5927,7 @@
 [UNKNOWN] input=mokpodeogin.ms.jne.kr | main=jne.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mokpoyudal.ms.jne.kr | main=jne.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=moksang.hs.jne.kr | main=jne.kr | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=moldofinlandez.md | main=moldofinlandez.md | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=momoyamagakuin-h.ed.jp | main=momoyamagakuin-h.ed.jp | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=moncmsc.ca | main=moncmsc.ca | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=monmouthschool.org | main=monmouthschool.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=monroecc.edu | main=monroecc.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=montessori-academico.es | main=montessori-academico.es | dns=False | web=False | whois=UNKNOWN
@@ -5957,6 +5953,7 @@
 [UNKNOWN] input=mp.es.osaka-u.ac.jp | main=osaka-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mpaehyang.ms.jne.kr | main=jne.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mpei.ac.ru | main=ac.ru | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=mpg-nt.de | main=mpg-nt.de | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mpg.muenchen.musin.de | main=musin.de | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mpie.de | main=mpie.de | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mpp3.ac.th | main=mpp3.ac.th | dns=False | web=False | whois=UNKNOWN
@@ -6031,6 +6028,7 @@
 [UNKNOWN] input=mtl.t.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mtm.kh.edu.tw | main=kh.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mtsnbabat.sch.id | main=mtsnbabat.sch.id | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=mtxy.edu.cn | main=mtxy.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mu-luebeck.de | main=mu-luebeck.de | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mu.edu.eg | main=mu.edu.eg | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=mu.edu.zm | main=mu.edu.zm | dns=False | web=False | whois=UNKNOWN
@@ -6208,6 +6206,7 @@
 [UNKNOWN] input=navis.edu.vn | main=navis.edu.vn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=navoips.uz | main=navoips.uz | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=navrachanasama.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=navycollegectg.edu.bd | main=navycollegectg.edu.bd | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=nawroz.edu.krd | main=edu.krd | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=nbcc.cn | main=nbcc.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=nbcc.edu.cn | main=nbcc.edu.cn | dns=False | web=False | whois=UNKNOWN
@@ -6274,6 +6273,7 @@
 [UNKNOWN] input=nepu.edu.cn | main=nepu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=nercita.org.cn | main=nercita.org.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=nes.moe.edu.eg | main=moe.edu.eg | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=nesinternational.org | main=nesinternational.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=neskt.org | main=neskt.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=net.it-chiba.ac.jp | main=it-chiba.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=net.itc.nagoya-u.ac.jp | main=nagoya-u.ac.jp | dns=False | web=False | whois=UNKNOWN
@@ -6405,6 +6405,7 @@
 [UNKNOWN] input=nodai.ac.jp | main=nodai.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=nodak.edu | main=nodak.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=nogok.sen.ms.kr | main=sen.ms.kr | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=noor.iust.ac.ir | main=iust.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=nor.eca-jca.edu.au | main=eca-jca.edu.au | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=norbertov.cz | main=norbertov.cz | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=norlington.school | main=norlington.school | dns=False | web=False | whois=UNKNOWN
@@ -6540,7 +6541,6 @@
 [UNKNOWN] input=o365.kh.edu.tw | main=kh.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=o365.mcut.edu.tw | main=mcut.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=o365.mhchcm.edu.tw | main=mhchcm.edu.tw | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=o365.seodong.ms.kr | main=seodong.ms.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=o365.tku.edu.tw | main=tku.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=o365.unlar.edu.ar | main=unlar.edu.ar | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=o365frcuutneduar.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
@@ -6587,7 +6587,6 @@
 [UNKNOWN] input=office.kw.ac.kr | main=kw.ac.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=office.kyoto-art.ac.jp | main=kyoto-art.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=office.stust.edu.tw | main=stust.edu.tw | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=office.uc.ac.kr | main=uc.ac.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=office.ysc.ac.kr | main=ysc.ac.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=office.yuhan.ac.kr | main=yuhan.ac.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=office365.chiba-u.jp | main=chiba-u.jp | dns=False | web=False | whois=UNKNOWN
@@ -6745,7 +6744,6 @@
 [UNKNOWN] input=pb.bialystok.pl | main=pb.bialystok.pl | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=pbc.edu.bd | main=pbc.edu.bd | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=pbcsf.tsinghua.edu.cn | main=tsinghua.edu.cn | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=pbtc.ac.th | main=pbtc.ac.th | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=pbu.edu.my | main=pbu.edu.my | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=pc.wa.edu.au | main=pc.wa.edu.au | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=pccbr.ac.th | main=pccbr.ac.th | dns=False | web=False | whois=UNKNOWN
@@ -6761,7 +6759,6 @@
 [UNKNOWN] input=pcti.edu | main=pcti.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=pcti.mobi | main=pcti.mobi | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=pcti.tec.nj.us | main=tec.nj.us | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=pdeawcsaswad.edu.in | main=pdeawcsaswad.edu.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=pdm.edu.ph | main=pdm.edu.ph | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=pdn.ac.lk | main=pdn.ac.lk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=pduni.edu.vn | main=pduni.edu.vn | dns=False | web=False | whois=UNKNOWN
@@ -6796,8 +6793,8 @@
 [UNKNOWN] input=pghvt.org | main=pghvt.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=pgia.ac.lk | main=pgia.ac.lk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=pgmcoepune.com | main=pgmcoepune.com | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=pgre.iust.ac.ir | main=iust.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=pgs.cu.edu.ng | main=cu.edu.ng | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=pgs.hebau.edu.cn | main=hebau.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=pgs.usb.ac.ir | main=usb.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=pgu.ac.ir | main=pgu.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ph-linz.at | main=ph-linz.at | dns=False | web=False | whois=UNKNOWN
@@ -6834,6 +6831,7 @@
 [UNKNOWN] input=phys.s.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=phys.sinica.edu.tw | main=sinica.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=physics.iitm.ac.in | main=iitm.ac.in | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=physics.iust.ac.ir | main=iust.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=physics.sharif.edu | main=sharif.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=physik.tu-darmstadt.de | main=tu-darmstadt.de | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=physik.uni-kl.de | main=uni-kl.de | dns=False | web=False | whois=UNKNOWN
@@ -6874,9 +6872,9 @@
 [UNKNOWN] input=pnc.edu | main=pnc.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=pnca.edu | main=pnca.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=pnp.ac.id | main=pnp.ac.id | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=pnu.ac.ir | main=pnu.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=pnumanila.com.ph | main=pnumanila.com.ph | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=poczta.student.up.wroc.pl | main=wroc.pl | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=pogok.ms.kr | main=pogok.ms.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=polandschools.org | main=polandschools.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=polaris.umuc.edu | main=umuc.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=poliba.it | main=poliba.it | dns=False | web=False | whois=UNKNOWN
@@ -6910,6 +6908,7 @@
 [UNKNOWN] input=post.ulacit.ed.cr | main=ulacit.ed.cr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=post.usts.edu.cn | main=usts.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=postal.uv.es | main=uv.es | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=postbox.eca-jca.edu.au | main=eca-jca.edu.au | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=postgrad.wit.ie | main=wit.ie | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=postgradounap.edu.pe | main=postgradounap.edu.pe | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=posts.eca-jca.edu.au | main=eca-jca.edu.au | dns=False | web=False | whois=UNKNOWN
@@ -6917,6 +6916,7 @@
 [UNKNOWN] input=ppcc.edu | main=ppcc.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ppcschule.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ppdb.man2-langkat.sch.id | main=man2-langkat.sch.id | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=ppiu.edu.kh | main=ppiu.edu.kh | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ppks.ac.th | main=ppks.ac.th | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ppl.k.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=pps.k12.va.us | main=pps.k12.va.us | dns=False | web=False | whois=UNKNOWN
@@ -7085,6 +7085,7 @@
 [UNKNOWN] input=rafflesgirlssch.edu.sg | main=rafflesgirlssch.edu.sg | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=rai.usc.es | main=usc.es | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=rai.usc.gal | main=usc.gal | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=rail.iust.ac.ir | main=iust.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=rainbow.iis.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=rainyriver.edu | main=rainyriver.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=rajdhanipolytechnic.edu.bd | main=rajdhanipolytechnic.edu.bd | dns=False | web=False | whois=UNKNOWN
@@ -7134,6 +7135,7 @@
 [UNKNOWN] input=reduc.edu.cu | main=reduc.edu.cu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=reedleyschool.com | main=reedleyschool.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=regent-college.ac.uk | main=regent-college.ac.uk | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=rejoiceacademy.co.zw | main=rejoiceacademy.co.zw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=rendcomb.gloucs.sch.uk | main=rendcomb.gloucs.sch.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=rennes.archi.fr | main=archi.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=renzoku.dev | main=renzoku.dev | dns=False | web=False | whois=UNKNOWN
@@ -7203,6 +7205,7 @@
 [UNKNOWN] input=robot.t.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=roceindhoven.nl | main=roceindhoven.nl | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=rocflevoland-ict.nl | main=rocflevoland-ict.nl | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=rochesteru.edu | main=rochesteru.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=rocketseat.team | main=rocketseat.team | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=rocna.edu.tw | main=rocna.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=rocteraa-student.nl | main=rocteraa-student.nl | dns=False | web=False | whois=UNKNOWN
@@ -7277,7 +7280,6 @@
 [UNKNOWN] input=s-fx.fr | main=s-fx.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=s-groedig.at | main=s-groedig.at | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=s-mu.edu.eg | main=s-mu.edu.eg | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=s-vfu.ru | main=s-vfu.ru | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=s.akashi.ac.jp | main=akashi.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=s.akita-u.ac.jp | main=akita-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=s.chibakoudai.jp | main=chibakoudai.jp | dns=False | web=False | whois=UNKNOWN
@@ -7373,7 +7375,6 @@
 [UNKNOWN] input=salesianosibarra.edu.ec | main=salesianosibarra.edu.ec | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=salesio-gakuin.ac.jp | main=salesio-gakuin.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=salesio-sp.ac.jp | main=salesio-sp.ac.jp | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=salezjanie.edu.pl | main=salezjanie.edu.pl | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=salinehornets.org | main=salinehornets.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sallacampus.fi | main=sallacampus.fi | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=salsp.edu.pl | main=salsp.edu.pl | dns=False | web=False | whois=UNKNOWN
@@ -7456,6 +7457,7 @@
 [UNKNOWN] input=sbrrmfgc.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sbsi.ph.education | main=ph.education | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sbsuni.edu.vn | main=sbsuni.edu.vn | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=sbu.ac.ir | main=sbu.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sburanchi.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sc.jobu.ac.jp | main=jobu.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sc.tsinghua.edu.cn | main=tsinghua.edu.cn | dns=False | web=False | whois=UNKNOWN
@@ -7509,6 +7511,7 @@
 [UNKNOWN] input=sci.svu.edu.eg | main=svu.edu.eg | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sci.toho-u.ac.jp | main=toho-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sci.u-toyama.ac.jp | main=u-toyama.ac.jp | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=sci.ui.ac.ir | main=ui.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=science.au.edu.eg | main=au.edu.eg | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=science.helwan.edu.eg | main=helwan.edu.eg | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=science.menofia.edu.eg | main=menofia.edu.eg | dns=False | web=False | whois=UNKNOWN
@@ -7691,7 +7694,6 @@
 [UNKNOWN] input=shawlandsacademy.glasgow.sch.uk | main=shawlandsacademy.glasgow.sch.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=shawtech.org | main=shawtech.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=shbhschool.in | main=shbhschool.in | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=shbu.ac.ir | main=shbu.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=shcac.edu.cn | main=shcac.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=shcmusic.edu.cn | main=shcmusic.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=shelford.vic.edu.au | main=shelford.vic.edu.au | dns=False | web=False | whois=UNKNOWN
@@ -7713,7 +7715,7 @@
 [UNKNOWN] input=shingu.ac.kr | main=shingu.ac.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=shinil.ms.kr | main=shinil.ms.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=shinshu-u.ac.jp | main=shinshu-u.ac.jp | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=shinsung.hs.kr | main=shinsung.hs.kr | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=shipyardschoolandcollege.jessoreboard.gov.bd | main=jessoreboard.gov.bd | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=shishitf.net | main=shishitf.net | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=shivalikedu.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=shjgu.edu.cn | main=shjgu.edu.cn | dns=False | web=False | whois=UNKNOWN
@@ -7730,8 +7732,10 @@
 [UNKNOWN] input=shonan.bunkyo.ac.jp | main=bunkyo.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=shphschool.com | main=shphschool.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=shps.ptc.edu.tw | main=ptc.edu.tw | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=shr.ui.ac.ir | main=ui.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=shreejyotischool.edu.np | main=shreejyotischool.edu.np | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=shreenaracollege.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=shreesapaneshwor.edu.np | main=shreesapaneshwor.edu.np | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=shs.cds.edu.ph | main=cds.edu.ph | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=shsh.ylc.edu.tw | main=ylc.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=shsmu.edu.cn | main=shsmu.edu.cn | dns=False | web=False | whois=UNKNOWN
@@ -7757,6 +7761,7 @@
 [UNKNOWN] input=sibs.ac.cn | main=sibs.ac.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sic.icehs.kr | main=icehs.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sicau.edu.cn | main=sicau.edu.cn | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=sicnu.edu.cn | main=sicnu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sicp.edu.cn | main=sicp.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sicsnet.edu.ph | main=sicsnet.edu.ph | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sict.i.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
@@ -7796,6 +7801,7 @@
 [UNKNOWN] input=sipil.unsyiah.ac.id | main=unsyiah.ac.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=siquijorstate.edu.ph | main=siquijorstate.edu.ph | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sirojulanam.sch.id | main=sirojulanam.sch.id | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=sirov.eca-jca.edu.au | main=eca-jca.edu.au | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sis.u-hyogo.ac.jp | main=u-hyogo.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sise.edu.cn | main=sise.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sislihrpteml.meb.k12.tr | main=meb.k12.tr | dns=False | web=False | whois=UNKNOWN
@@ -7867,7 +7873,6 @@
 [UNKNOWN] input=slrc.kyushu-u.ac.jp | main=kyushu-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sm.ac.kr | main=sm.ac.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sma-belajar.my.id | main=sma-belajar.my.id | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=sma-ktb.sch.id | main=sma-ktb.sch.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sma38.ac.id | main=sma38.ac.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sma68-jkt.sch.id | main=sma68-jkt.sch.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=smacbacoor.ph.education | main=ph.education | dns=False | web=False | whois=UNKNOWN
@@ -7909,6 +7914,7 @@
 [UNKNOWN] input=sman13garut.inesosien.org | main=inesosien.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sman16sby.sch.id | main=sman16sby.sch.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sman1campurdarat.sch.id | main=sman1campurdarat.sch.id | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=sman1cianjur.sch.id | main=sman1cianjur.sch.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sman1cilacap.sch.id | main=sman1cilacap.sch.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sman1cileungsi.sch.id | main=sman1cileungsi.sch.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sman1kedungdung.sch.id | main=sman1kedungdung.sch.id | dns=False | web=False | whois=UNKNOWN
@@ -7921,7 +7927,9 @@
 [UNKNOWN] input=sman1singorojo.sch.id | main=sman1singorojo.sch.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sman2-ciamis.sch.id | main=sman2-ciamis.sch.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sman2bdg.sch.id | main=sman2bdg.sch.id | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=sman2sebulu.sch.id | main=sman2sebulu.sch.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sman2serang.me | main=sman2serang.me | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=sman2tualang.sch.id | main=sman2tualang.sch.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sman31jakarta.sch.id | main=sman31jakarta.sch.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sman45-jkt.sch.id | main=sman45-jkt.sch.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sman4kotabogor.sch.id | main=sman4kotabogor.sch.id | dns=False | web=False | whois=UNKNOWN
@@ -8143,7 +8151,6 @@
 [UNKNOWN] input=spschbr.info | main=spschbr.info | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=spsdt.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=spsknm.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=spslt.edu.hk | main=spslt.edu.hk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=spsmma.com | main=spsmma.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=spss.hk | main=spss.hk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=spssza.sk | main=spssza.sk | dns=False | web=False | whois=UNKNOWN
@@ -8283,6 +8290,7 @@
 [UNKNOWN] input=stac.southwark.sch.uk | main=stac.southwark.sch.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stacmail.net | main=stacmail.net | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stacs.bham.sch.uk | main=stacs.bham.sch.uk | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=staff.eca-jca.edu.au | main=eca-jca.edu.au | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=staff.edu.sch.id | main=edu.sch.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=staff.sharif.edu | main=sharif.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=staffordcoll.ac.uk | main=staffordcoll.ac.uk | dns=False | web=False | whois=UNKNOWN
@@ -8306,14 +8314,12 @@
 [UNKNOWN] input=std.chiba-c.ed.jp | main=chiba-c.ed.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=std.du.ac.ir | main=du.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=std.fhvs.ntpc.edu.tw | main=ntpc.edu.tw | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=std.hi-joho.ac.jp | main=hi-joho.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=std.hkhs.kh.edu.tw | main=kh.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=std.iszu.edu.tr | main=iszu.edu.tr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=std.it-college.ac.jp | main=it-college.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=std.kashanu.ac.ir | main=kashanu.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=std.kiis.ac.jp | main=kiis.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=std.kitami-it.ac.jp | main=kitami-it.ac.jp | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=std.kmcu.ac.kr | main=kmcu.ac.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=std.kurume-u.ac.jp | main=kurume-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=std.mdhs.ntpc.edu.tw | main=ntpc.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=std.mitseda.ac.id | main=mitseda.ac.id | dns=False | web=False | whois=UNKNOWN
@@ -8392,7 +8398,6 @@
 [UNKNOWN] input=stjosephcollegeofnova.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stjosephmueangake.ac.th | main=stjosephmueangake.ac.th | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stjosephputhanangadi.in | main=stjosephputhanangadi.in | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=stjosephshskandivali.com | main=stjosephshskandivali.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stkipdharma.ac.id | main=stkipdharma.ac.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stlcop.edu | main=stlcop.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stmail.cgu.edu.tw | main=cgu.edu.tw | dns=False | web=False | whois=UNKNOWN
@@ -8465,7 +8470,6 @@
 [UNKNOWN] input=stu.cjlu.edu.cn | main=cjlu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.clcillinois.edu | main=clcillinois.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.cmu.edu.cn | main=cmu.edu.cn | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=stu.cpu.edu.cn | main=cpu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.cqie.edu.cn | main=cqie.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.cqjzc.edu.cn | main=cqjzc.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.cqmu.edu.cn | main=cqmu.edu.cn | dns=False | web=False | whois=UNKNOWN
@@ -8486,6 +8490,7 @@
 [UNKNOWN] input=stu.fync.edu.cn | main=fync.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.fynu.edu.cn | main=fynu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.gdgm.edu.cn | main=gdgm.edu.cn | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=stu.gdmec.edu.cn | main=gdmec.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.gdou.edu.cn | main=gdou.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.gdsspt.edu.cn | main=gdsspt.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.gifu-nct.ac.jp | main=gifu-nct.ac.jp | dns=False | web=False | whois=UNKNOWN
@@ -8511,7 +8516,6 @@
 [UNKNOWN] input=stu.hct.edu.om | main=hct.edu.om | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.hcusd2.org | main=hcusd2.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.hdsh.ilc.edu.tw | main=ilc.edu.tw | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=stu.hebau.edu.cn | main=hebau.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.hebmu.edu.cn | main=hebmu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.hebtu.edu.cn | main=hebtu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.hfnu.edu.cn | main=hfnu.edu.cn | dns=False | web=False | whois=UNKNOWN
@@ -8615,6 +8619,7 @@
 [UNKNOWN] input=stu.shzu.edu.cn | main=shzu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.sias.edu.cn | main=sias.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.sicau.edu.cn | main=sicau.edu.cn | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=stu.sicnu.edu.cn | main=sicnu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.sirjantech.ac.ir | main=sirjantech.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.sisu.edu.cn | main=sisu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.siva.edu.cn | main=siva.edu.cn | dns=False | web=False | whois=UNKNOWN
@@ -8671,7 +8676,6 @@
 [UNKNOWN] input=stu.wghs.tp.edu.tw | main=tp.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.wit.edu.cn | main=wit.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.wnmc.edu.cn | main=wnmc.edu.cn | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=stu.wxic.edu.cn | main=wxic.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.wxsc.edu.cn | main=wxsc.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.wzbc.edu.cn | main=wzbc.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.xacom.edu.cn | main=xacom.edu.cn | dns=False | web=False | whois=UNKNOWN
@@ -8691,6 +8695,7 @@
 [UNKNOWN] input=stu.yazd.ac.ir | main=yazd.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.ycit.edu.cn | main=ycit.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.yibinu.edu.cn | main=yibinu.edu.cn | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=stu.ymun.edu.cn | main=ymun.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.ynu.edu.cn | main=ynu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.ynufe.edu.cn | main=ynufe.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stu.yulinu.edu.cn | main=yulinu.edu.cn | dns=False | web=False | whois=UNKNOWN
@@ -8741,6 +8746,8 @@
 [UNKNOWN] input=stud.sbg.ac.at | main=sbg.ac.at | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stud.sgd.bayern | main=sgd.bayern | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stud.tbst.edu.au | main=tbst.edu.au | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=stud.tiss.ac.in | main=tiss.ac.in | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=stud.tiss.edu | main=tiss.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stud.tjut.edu.cn | main=tjut.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stud.tksh.ntpc.edu.tw | main=ntpc.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=stud.tu-darmstadt.de | main=tu-darmstadt.de | dns=False | web=False | whois=UNKNOWN
@@ -8846,7 +8853,6 @@
 [UNKNOWN] input=student.lighthouse.edu.mu | main=edu.mu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=student.ltsh.ilc.edu.tw | main=ilc.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=student.markenhage.org | main=markenhage.org | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=student.mbsc.edu.sa | main=mbsc.edu.sa | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=student.mccibs.ac.mu | main=mccibs.ac.mu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=student.merthyr.ac.uk | main=merthyr.ac.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=student.mm-unlam.ac.id | main=mm-unlam.ac.id | dns=False | web=False | whois=UNKNOWN
@@ -8877,6 +8883,7 @@
 [UNKNOWN] input=student.pmm.edu.my | main=pmm.edu.my | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=student.pms.edu.my | main=pms.edu.my | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=student.pnp.ac.id | main=pnp.ac.id | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=student.pnu.ac.ir | main=pnu.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=student.polandschools.org | main=polandschools.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=student.polikk.edu.my | main=polikk.edu.my | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=student.prs.biz.id | main=prs.biz.id | dns=False | web=False | whois=UNKNOWN
@@ -8921,7 +8928,6 @@
 [UNKNOWN] input=student.ttcollege.edu.sa | main=ttcollege.edu.sa | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=student.tu.kielce.pl | main=kielce.pl | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=student.ua.ac.be | main=ua.ac.be | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=student.ucc.edu.hk | main=ucc.edu.hk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=student.ucts.edu.my | main=ucts.edu.my | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=student.ue.wroc.pl | main=wroc.pl | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=student.uinsby.ac.id | main=uinsby.ac.id | dns=False | web=False | whois=UNKNOWN
@@ -8989,10 +8995,12 @@
 [UNKNOWN] input=students.cavendish.co.zm | main=cavendish.co.zm | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=students.cse.univdhaka.edu | main=univdhaka.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=students.dbumn.edu | main=dbumn.edu | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=students.del.ac.id | main=del.ac.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=students.eastberks.ac.uk | main=eastberks.ac.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=students.eastonotley.ac.uk | main=eastonotley.ac.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=students.eccc.edu | main=eccc.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=students.edu.vn | main=students.edu.vn | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=students.eiu.edu.ye | main=eiu.edu.ye | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=students.enmu-roswell.edu | main=enmu-roswell.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=students.globeuniversity.edu | main=globeuniversity.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=students.hadassah.ac.il | main=hadassah.ac.il | dns=False | web=False | whois=UNKNOWN
@@ -9022,7 +9030,6 @@
 [UNKNOWN] input=students.pulaskitech.edu | main=pulaskitech.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=students.rouenbs.fr | main=rouenbs.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=students.sc.nsw.edu.au | main=sc.nsw.edu.au | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=students.seku.ac.ke | main=seku.ac.ke | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=students.sgcs.nsw.edu.au | main=sgcs.nsw.edu.au | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=students.smu.ac.uk | main=smu.ac.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=students.soharuni.edu.om | main=soharuni.edu.om | dns=False | web=False | whois=UNKNOWN
@@ -9096,7 +9103,6 @@
 [UNKNOWN] input=sundsvall.alvis.se | main=alvis.se | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sungbo.sen.hs.kr | main=sen.hs.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sunhill.edu.tr | main=sunhill.edu.tr | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=sunrint.hs.kr | main=sunrint.hs.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sunsetspark.org | main=sunsetspark.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sunshineworldwideschool.in | main=sunshineworldwideschool.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=suou.waseda.jp | main=waseda.jp | dns=False | web=False | whois=UNKNOWN
@@ -9123,6 +9129,7 @@
 [UNKNOWN] input=suzuki-lab.ise.chuo-u.ac.jp | main=chuo-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sv.novacollege.edu.vn | main=novacollege.edu.vn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=sv.ussh.edu.vn | main=ussh.edu.vn | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=sveol.tiss.edu | main=tiss.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=svew.edu.in | main=svew.edu.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=svisschoolkompally.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=svist.ac.in | main=svist.ac.in | dns=False | web=False | whois=UNKNOWN
@@ -9131,6 +9138,7 @@
 [UNKNOWN] input=svps.tu-darmstadt.de | main=tu-darmstadt.de | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=svpsblr.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=svsh.ylc.edu.tw | main=ylc.edu.tw | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=svtcc.edu.cn | main=svtcc.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=svu.ac.in | main=svu.ac.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=svu.edu.eg | main=svu.edu.eg | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=svuca.edu | main=svuca.edu | dns=False | web=False | whois=UNKNOWN
@@ -9230,7 +9238,6 @@
 [UNKNOWN] input=taruiedu.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=tasevayakkabi.meb.k12.tr | main=meb.k12.tr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=tatc.ac.th | main=tatc.ac.th | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=tau.edu.ph | main=tau.edu.ph | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=taunusschule-bc.de | main=taunusschule-bc.de | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=tbc2day.edu | main=tbc2day.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=tbgs.torbay.sch.uk | main=tbgs.torbay.sch.uk | dns=False | web=False | whois=UNKNOWN
@@ -9256,6 +9263,7 @@
 [UNKNOWN] input=tdt.edu.vn | main=tdt.edu.vn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=tea.ntue.edu.tw | main=ntue.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=teach.stitaf.ac.id | main=stitaf.ac.id | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=teacher.eca-jca.edu.au | main=eca-jca.edu.au | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=teacher.edu.sch.id | main=edu.sch.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=teacher.vcef.edu.vn | main=vcef.edu.vn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=teachermail.eca-jca.edu.au | main=eca-jca.edu.au | dns=False | web=False | whois=UNKNOWN
@@ -9275,6 +9283,7 @@
 [UNKNOWN] input=tecniaclg.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=tecnmtlahuac.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=tecnocomfenalco.edu.co | main=tecnocomfenalco.edu.co | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=tecnograu.edu.pe | main=tecnograu.edu.pe | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=teguh.tekniksipil-unnes.ac.id | main=tekniksipil-unnes.ac.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=teiath.edu.gr | main=teiath.edu.gr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=teiath.gr | main=teiath.gr | dns=False | web=False | whois=UNKNOWN
@@ -9327,6 +9336,7 @@
 [UNKNOWN] input=thcsphuongthien.edu.vn | main=thcsphuongthien.edu.vn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=thcsthanhliet.thanhtrihanoi.edu.vn | main=thanhtrihanoi.edu.vn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=thcsthitranvandien.edu.vn | main=thcsthitranvandien.edu.vn | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=thddn.edu.vn | main=thddn.edu.vn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=theagrund.se | main=theagrund.se | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=theangmeringschool.co.uk | main=theangmeringschool.co.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=theatre.tnua.edu.tw | main=tnua.edu.tw | dns=False | web=False | whois=UNKNOWN
@@ -9373,6 +9383,7 @@
 [UNKNOWN] input=tijmu.edu.cn | main=tijmu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=tim-stud.ru | main=tim-stud.ru | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=tis.edu.pl | main=tis.edu.pl | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=tiss.edu | main=tiss.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=tiszaparti.com | main=tiszaparti.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=titlani.uam.mx | main=uam.mx | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=tiu.ac.jp | main=tiu.ac.jp | dns=False | web=False | whois=UNKNOWN
@@ -9484,7 +9495,6 @@
 [UNKNOWN] input=trcsrmist.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=treviglas.cornwall.sch.uk | main=treviglas.cornwall.sch.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=treynorcardinals.org | main=treynorcardinals.org | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=triatmamulya.ac.id | main=triatmamulya.ac.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=trident.ac.jp | main=trident.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=trinitasedu.nl | main=trinitasedu.nl | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=trinity.croydon.sch.uk | main=trinity.croydon.sch.uk | dns=False | web=False | whois=UNKNOWN
@@ -9568,6 +9578,7 @@
 [UNKNOWN] input=tynu.edu.cn | main=tynu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=tysh.tyc.edu.tw | main=tyc.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=tythy.school | main=tythy.school | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=tyu.edu.cn | main=tyu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=tyust.edu.cn | main=tyust.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=tzc.edu.cn | main=tzc.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=tzpc.edu.cn | main=tzpc.edu.cn | dns=False | web=False | whois=UNKNOWN
@@ -9627,6 +9638,7 @@
 [UNKNOWN] input=uat.edu.mx | main=uat.edu.mx | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=uautonoma.edu.co | main=uautonoma.edu.co | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=uav.edu.mx | main=uav.edu.mx | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=ub.ac.bw | main=ub.ac.bw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ub.ac.ir | main=ub.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ub.edu.bi | main=ub.edu.bi | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ube.kosen-ac.jp | main=kosen-ac.jp | dns=False | web=False | whois=UNKNOWN
@@ -9634,12 +9646,10 @@
 [UNKNOWN] input=ubi.cs.ritsumei.ac.jp | main=ritsumei.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ubi.s.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ubonab.ac.ir | main=ubonab.ac.ir | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=ubru.ac.th | main=ubru.ac.th | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ubs.edu.ua | main=ubs.edu.ua | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ubu.ac.th | main=ubu.ac.th | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ubu.es | main=ubu.es | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ubvonline.ro | main=ubvonline.ro | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=uc.ac.kr | main=uc.ac.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=uca.edu.ni | main=uca.edu.ni | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ucad.edu.sn | main=ucad.edu.sn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ucam.ac.ma | main=ucam.ac.ma | dns=False | web=False | whois=UNKNOWN
@@ -9647,7 +9657,6 @@
 [UNKNOWN] input=ucas.edu.cn | main=ucas.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ucbcba.edu.bo | main=ucbcba.edu.bo | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ucbukavu.ac.cd | main=ac.cd | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=ucc.edu.hk | main=ucc.edu.hk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=uccc.edu.py | main=uccc.edu.py | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=uccr.edu | main=uccr.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ucdconnect.ie | main=ucdconnect.ie | dns=False | web=False | whois=UNKNOWN
@@ -9691,7 +9700,6 @@
 [UNKNOWN] input=udlanet.ec | main=udlanet.ec | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=udml.ac.in | main=udml.ac.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=udo.edu.ve | main=udo.edu.ve | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=udo.mx | main=udo.mx | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=udp.cl | main=udp.cl | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ue.edu.co | main=ue.edu.co | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ue.edu.krd | main=edu.krd | dns=False | web=False | whois=UNKNOWN
@@ -9718,7 +9726,6 @@
 [UNKNOWN] input=uet.edu | main=uet.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=uetr.ac.in | main=uetr.ac.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=uezo.edu.br | main=uezo.edu.br | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=ufabc.edu.br | main=ufabc.edu.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ufhb.edu.ci | main=ufhb.edu.ci | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ufide.ac.cr | main=ufide.ac.cr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ufpe.br | main=ufpe.br | dns=False | web=False | whois=UNKNOWN
@@ -9746,6 +9753,7 @@
 [UNKNOWN] input=uhscdhaka.edu.bd | main=uhscdhaka.edu.bd | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=uhvem.osaka-u.ac.jp | main=osaka-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ui.is.s.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=uia.mx | main=uia.mx | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=uietkanpur.org | main=uietkanpur.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=uincca.edu.co | main=uincca.edu.co | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=uinenlinea.mx | main=uinenlinea.mx | dns=False | web=False | whois=UNKNOWN
@@ -9801,7 +9809,6 @@
 [UNKNOWN] input=unatego.stier.org | main=stier.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=unavarra.es | main=unavarra.es | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=unbita.ac.id | main=unbita.ac.id | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=unca.edu.ar | main=unca.edu.ar | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=unchk.edu.sn | main=unchk.edu.sn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=uncwil.edu | main=uncwil.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=und.ac.id | main=und.ac.id | dns=False | web=False | whois=UNKNOWN
@@ -9830,6 +9837,7 @@
 [UNKNOWN] input=unibge.hu | main=unibge.hu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=unibw-muenchen.de | main=unibw-muenchen.de | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=unic.cnrs-gif.fr | main=cnrs-gif.fr | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=unica.cu | main=unica.cu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=unicam.it | main=unicam.it | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=unican.es | main=unican.es | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=unicap.br | main=unicap.br | dns=False | web=False | whois=UNKNOWN
@@ -9893,8 +9901,8 @@
 [UNKNOWN] input=univ-metz.fr | main=univ-metz.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=univ-mlv.fr | main=univ-mlv.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=univ-montp2.fr | main=univ-montp2.fr | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=univ-mosta.dz | main=univ-mosta.dz | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=univ-nc.nc | main=univ-nc.nc | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=univ-ndere.cm | main=univ-ndere.cm | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=univ-oeb.dz | main=univ-oeb.dz | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=univ-oujda.ac.ma | main=univ-oujda.ac.ma | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=univ-paris3.fr | main=univ-paris3.fr | dns=False | web=False | whois=UNKNOWN
@@ -9911,6 +9919,7 @@
 [UNKNOWN] input=universidadfavaloro.com.ar | main=universidadfavaloro.com.ar | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=universidadlaboral.com | main=universidadlaboral.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=universidadmultitecnica.edu.mx | main=universidadmultitecnica.edu.mx | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=universitasbumigora.ac.id | main=universitasbumigora.ac.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=universitaskebangsaan.ac.id | main=universitaskebangsaan.ac.id | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=universitasklabat.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=universitycanadawest.ca | main=universitycanadawest.ca | dns=False | web=False | whois=UNKNOWN
@@ -9921,7 +9930,6 @@
 [UNKNOWN] input=uniyar.ac.ru | main=ac.ru | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=unizd.hr | main=unizd.hr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=unizkm.edu.al | main=unizkm.edu.al | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=unjeong.ms.kr | main=unjeong.ms.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=unl.ac.uk | main=unl.ac.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=unla.edu.ar | main=unla.edu.ar | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=unlar.edu.ar | main=unlar.edu.ar | dns=False | web=False | whois=UNKNOWN
@@ -9947,10 +9955,10 @@
 [UNKNOWN] input=untl.edu.tl | main=edu.tl | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=untuned.tk | main=untuned.tk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=unusa.my.id | main=unusa.my.id | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=uo.edu.cu | main=uo.edu.cu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=uoc.es | main=uoc.es | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=uod.edu.sa | main=uod.edu.sa | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=uoe.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=uoeld.ac.ke | main=uoeld.ac.ke | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=uofport.edu | main=uofport.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=uofzmail.uz.ac.zw | main=uz.ac.zw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=uohs.ac.kr | main=uohs.ac.kr | dns=False | web=False | whois=UNKNOWN
@@ -9964,6 +9972,7 @@
 [UNKNOWN] input=up.prec.eng.osaka-u.ac.jp | main=osaka-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=upagu.edu.pe | main=upagu.edu.pe | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=upal.edu.pe | main=upal.edu.pe | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=upalt.edu.mx | main=upalt.edu.mx | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=upang.edu.ph | main=upang.edu.ph | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=upao.edu | main=upao.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=upbc.edu.mx | main=upbc.edu.mx | dns=False | web=False | whois=UNKNOWN
@@ -9986,6 +9995,7 @@
 [UNKNOWN] input=upqedu.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ups-tlse.fr | main=ups-tlse.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=upt.pe | main=upt.pe | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=upt.pt | main=upt.pt | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=uptecamac.edu.mx | main=uptecamac.edu.mx | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=uptex.edu.mx | main=uptex.edu.mx | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=uptm.edu.my | main=uptm.edu.my | dns=False | web=False | whois=UNKNOWN
@@ -10088,7 +10098,6 @@
 [UNKNOWN] input=uz.edu.zw | main=edu.zw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=uzambeze.ac.mz | main=uzambeze.ac.mz | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=vaagdevicollege.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=vaishcollegebhiwani.ac.in | main=vaishcollegebhiwani.ac.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=valeovil.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=vallauri.edu | main=vallauri.edu | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=valleseriana.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
@@ -10125,10 +10134,12 @@
 [UNKNOWN] input=vetufmg.edu.br | main=vetufmg.edu.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=via.ecp.fr | main=ecp.fr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=viannajunior.edu.br | main=viannajunior.edu.br | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=viannasempre.com.br | main=viannasempre.com.br | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=victoria-uni.ch | main=victoria-uni.ch | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=vidalibarraquer.net | main=vidalibarraquer.net | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=videndjurs.net | main=videndjurs.net | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=video.ee.ntu.edu.tw | main=ntu.edu.tw | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=vidyadhirajamvk.org | main=vidyadhirajamvk.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=vidyalayas.in | main=vidyalayas.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=vidyamandirmyl.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=vidyani.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
@@ -10137,9 +10148,11 @@
 [UNKNOWN] input=viessmannschule.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=vilgym.edu.ee | main=vilgym.edu.ee | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=villaweb-ba.com.br | main=villaweb-ba.com.br | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=vinaja.edu.vn | main=vinaja.edu.vn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=vip.haust.edu.cn | main=haust.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=vip.henu.edu.cn | main=henu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=vip.jiangnan.edu.cn | main=jiangnan.edu.cn | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=vip.zjtie.edu.cn | main=zjtie.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=vipsedu.in | main=vipsedu.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=virgo.is.utsunomiya-u.ac.jp | main=utsunomiya-u.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=virgopotens.edu.pe | main=virgopotens.edu.pe | dns=False | web=False | whois=UNKNOWN
@@ -10185,6 +10198,7 @@
 [UNKNOWN] input=vtdt.edu.lv | main=vtdt.edu.lv | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=vts.su.ac.rs | main=su.ac.rs | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=vtsbj.hr | main=vtsbj.hr | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=vu.iust.ac.ir | main=iust.ac.ir | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=vviedu.in | main=vviedu.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=vvu.edu.in | main=vvu.edu.in | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=vwc.edu | main=vwc.edu | dns=False | web=False | whois=UNKNOWN
@@ -10280,6 +10294,7 @@
 [UNKNOWN] input=whpa.edu.cn | main=whpa.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=whps.tp.edu.tw | main=tp.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=whpu.edu.cn | main=whpu.edu.cn | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=whsat.org | main=whsat.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=whsu.edu.cn | main=whsu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=whsw.edu.cn | main=whsw.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=wigmore.hereford.sch.uk | main=wigmore.hereford.sch.uk | dns=False | web=False | whois=UNKNOWN
@@ -10326,6 +10341,7 @@
 [UNKNOWN] input=wordsley.dudley.sch.uk | main=wordsley.dudley.sch.uk | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=wphs.ohio.k12.wv.us | main=k12.wv.us | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=wpsma.org | main=wpsma.org | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=wr.ac.th | main=wr.ac.th | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=wrps11.ca | main=wrps11.ca | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=wrschulen.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=wru.edu.cn | main=wru.edu.cn | dns=False | web=False | whois=UNKNOWN
@@ -10347,9 +10363,9 @@
 [UNKNOWN] input=wvmccd.onmicrosoft.com | main=onmicrosoft.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=wvs.moe.edu.bn | main=moe.edu.bn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=wvsg.berlin | main=wvsg.berlin | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=wwseutin.de | main=wwseutin.de | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=wwstu.catholic.edu.au | main=wwstu.catholic.edu.au | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=wxcu.edu.cn | main=wxcu.edu.cn | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=wxic.edu.cn | main=wxic.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=wxit.edu.cn | main=wxit.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=wxsc.edu.cn | main=wxsc.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=wxu.edu.cn | main=wxu.edu.cn | dns=False | web=False | whois=UNKNOWN
@@ -10380,8 +10396,10 @@
 [UNKNOWN] input=xjau.edu.cn | main=xjau.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=xjdszfz.sipedu.org | main=sipedu.org | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=xjistedu.cn | main=xjistedu.cn | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=xjit.edu.cn | main=xjit.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=xjnu.edu.cn | main=xjnu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=xjufe.edu.cn | main=xjufe.edu.cn | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=xjust.edu.cn | main=xjust.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=xjzfu.edu.cn | main=xjzfu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=xlab.iii.u-tokyo.ac.jp | main=u-tokyo.ac.jp | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=xlxy.ntu.edu.cn | main=ntu.edu.cn | dns=False | web=False | whois=UNKNOWN
@@ -10440,7 +10458,6 @@
 [UNKNOWN] input=ycsh.cyc.edu.tw | main=cyc.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ycsh.tp.edu.tw | main=tp.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ycu.edu.cn | main=ycu.edu.cn | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=yea.al | main=yea.al | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=year.mail.swufe.edu.cn | main=swufe.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=yeongheung.hs.jne.kr | main=jne.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=yeongju-m.ms.kr | main=yeongju-m.ms.kr | dns=False | web=False | whois=UNKNOWN
@@ -10464,10 +10481,10 @@
 [UNKNOWN] input=ylsy.edu.cn | main=ylsy.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ylvs.tw | main=ylvs.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ym.edu.tw | main=ym.edu.tw | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=ymgng.ms.kr | main=ymgng.ms.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ymhs.tyc.edu.tw | main=tyc.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ymsh.hcc.edu.tw | main=hcc.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ymu.edu.cn | main=ymu.edu.cn | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=ymun.edu.cn | main=ymun.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=yn.sen.ms.kr | main=sen.ms.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ynart.edu.cn | main=ynart.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ynit.edu.cn | main=ynit.edu.cn | dns=False | web=False | whois=UNKNOWN
@@ -10505,7 +10522,6 @@
 [UNKNOWN] input=yrcti.edu.cn | main=yrcti.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=yrctu.edu.cn | main=yrctu.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ys.sen.hs.kr | main=sen.hs.kr | dns=False | web=False | whois=UNKNOWN
-[UNKNOWN] input=yshinchon.ms.kr | main=yshinchon.ms.kr | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ysid.edu.mm | main=ysid.edu.mm | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ysjh.hc.edu.tw | main=hc.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=ystu.ycsd.york.va.us | main=york.va.us | dns=False | web=False | whois=UNKNOWN
@@ -10566,6 +10582,7 @@
 [UNKNOWN] input=zjkju.edu.cn | main=zjkju.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=zjnu.net | main=zjnu.net | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=zjsru.edu.cn | main=zjsru.edu.cn | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=zjtie.edu.cn | main=zjtie.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=zju.edu.cn | main=zju.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=zjuonline.tech | main=zjuonline.tech | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=zjut.edu.cn | main=zjut.edu.cn | dns=False | web=False | whois=UNKNOWN
@@ -10647,6 +10664,7 @@
 [UNKNOWN] input=zytoonschool.com | main=zytoonschool.com | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=zyufl.edu.cn | main=zyufl.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=zzgyxy.com | main=zzgyxy.com | dns=False | web=False | whois=UNKNOWN
+[UNKNOWN] input=zzife.edu.cn | main=zzife.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=zzm.ks.edu.tw | main=ks.edu.tw | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=zzti.edu.cn | main=zzti.edu.cn | dns=False | web=False | whois=UNKNOWN
 [UNKNOWN] input=zzu.edu.cn | main=zzu.edu.cn | dns=False | web=False | whois=UNKNOWN
