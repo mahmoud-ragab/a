@@ -54,7 +54,7 @@ ckziu.mragowo.pl
 coderfactoryacademy.edu.au
 coersm.ac.in
 colegionsgracascambara.com.br
-cpistudent.vic.edu.au
+college-em.qc.ca
 cpsboe.k12.oh.us
 cptc.ac.in
 crcmelton.vic.edu.au
@@ -143,7 +143,6 @@ hcc.cc.md.us
 heb.be
 hetkasteelpark.be
 hkcollege.edu.in
-horizonsante-lyon.fr
 hpsc.edu.pk
 ibsi.edu.pk
 icaosta-re.gov.it
@@ -294,6 +293,7 @@ smi.edu.pk
 sstu-edu.ru
 stagschools.org.uk
 starnoldschoolgodhra.edu.in
+stclairc.on.ca
 stedmunds.act.edu.au
 stenden.edu.za
 stepscollege.edu.pk
