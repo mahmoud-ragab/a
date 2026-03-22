@@ -55,6 +55,7 @@ coderfactoryacademy.edu.au
 coersm.ac.in
 colegionsgracascambara.com.br
 college-em.qc.ca
+cpistudent.vic.edu.au
 cpsboe.k12.oh.us
 cptc.ac.in
 crcmelton.vic.edu.au
@@ -76,7 +77,6 @@ dipsar.ac.in
 distant-aumsu.ru
 dkmm.edu.in
 dmietr.edu.in
-donboscohalle.be
 dpsfsd.edu.pk
 drgitr.edu.in
 ducic.ac.in
@@ -85,7 +85,6 @@ eca-jca.edu.au
 ecamoes.com.br
 ecietbu.co.in
 edencollege.com.pk
-edu-collanaud.qc.ca
 efpl.be
 efty.be
 einaudimattei.edu.it
@@ -146,6 +145,7 @@ hkcollege.edu.in
 hpsc.edu.pk
 ibsi.edu.pk
 icaosta-re.gov.it
+icccph.com
 icdavincireggioemilia.gov.it
 ict.school.nz
 ie1278lamolina.com
@@ -263,6 +263,7 @@ purcitm.ac.in
 pvhs.k12.nj.us
 pxl-ea-ict.be
 r1vsk.lv
+raffles-rui.com
 raffles.edu.au
 rcconnect.edu.za
 rea-yar.ru
@@ -293,7 +294,6 @@ smi.edu.pk
 sstu-edu.ru
 stagschools.org.uk
 starnoldschoolgodhra.edu.in
-stclairc.on.ca
 stedmunds.act.edu.au
 stenden.edu.za
 stepscollege.edu.pk
