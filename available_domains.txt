@@ -85,6 +85,7 @@ eca-jca.edu.au
 ecamoes.com.br
 ecietbu.co.in
 edencollege.com.pk
+edu-collanaud.qc.ca
 efpl.be
 efty.be
 einaudimattei.edu.it
@@ -171,7 +172,6 @@ istitutomontani.gov.it
 istitutoromanazzi.edu.it
 istitutoromanazzi.gov.it
 istitutovanoninardo.edu.it
-itg-orebro.se
 itgakersberga.se
 itgksd.se
 itiscardanopv.gov.it
@@ -240,9 +240,9 @@ mystudydesk.edu.au
 myuwc.ac.za
 nellainadar.edu.in
 nepobjetivo.com.br
-new-haven.k12.ct.us
 nitsmirza.ac.in
 nittiportici.gov.it
+nlsd.k12.wi.us
 nwu.ac.za
 oasl.sk
 objetivoosasco.net.br
@@ -301,6 +301,7 @@ stfrancisjamnagar.edu.in
 stjohns.k12.fl.us
 studenti-ittfedifermi.gov.it
 students.k12.dc.us
+supavenir.fr
 sv.k12.oh.us
 swanvalley.k12.mi.us
 szkolyhermes.edu.pl
@@ -362,7 +363,6 @@ yenimedia.edu.it
 yildirimbeyazit.edu.pl
 ysn.edu.in
 zespolszkolkomunikacji.edu.pl
-zgora.edu.pl
 zm.edu.pl
 zsh-sopot.edu.pl
 zso1.olsztyn.pl
