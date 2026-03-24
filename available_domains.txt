@@ -54,7 +54,6 @@ ckziu.mragowo.pl
 coderfactoryacademy.edu.au
 coersm.ac.in
 colegionsgracascambara.com.br
-college-em.qc.ca
 cpistudent.vic.edu.au
 cpsboe.k12.oh.us
 cptc.ac.in
@@ -81,6 +80,7 @@ dpsfsd.edu.pk
 drgitr.edu.in
 ducic.ac.in
 dut4life.ac.za
+dyptc.edu.in
 eca-jca.edu.au
 ecamoes.com.br
 ecietbu.co.in
@@ -172,7 +172,7 @@ istitutomontani.gov.it
 istitutoromanazzi.edu.it
 istitutoromanazzi.gov.it
 istitutovanoninardo.edu.it
-itgakersberga.se
+itg-orebro.se
 itgksd.se
 itiscardanopv.gov.it
 itispisa.gov.it
@@ -195,7 +195,6 @@ khbo.be
 kingsu.ab.ca
 kitetech.ac.in
 kitssingapuram.ac.in
-kprsb.ac.in
 kpswjg.edu.pl
 krishnacollege.ac.in
 ktemplar.me.uk
@@ -222,7 +221,6 @@ mancheopenschool.fr
 mao.edu.pk
 marconi.imperia.it
 mbict.ac.in
-mborijnland.nu
 mcdonaldco.k12.mo.us
 mehrancolleges.edu.pk
 mesponnanicollege.ac.in
@@ -240,9 +238,9 @@ mystudydesk.edu.au
 myuwc.ac.za
 nellainadar.edu.in
 nepobjetivo.com.br
+new-haven.k12.ct.us
 nitsmirza.ac.in
 nittiportici.gov.it
-nlsd.k12.wi.us
 nwu.ac.za
 oasl.sk
 objetivoosasco.net.br
@@ -280,6 +278,7 @@ satyabama.ac.in
 sbps.edu.in
 scheppersinstituut.be
 school17-gubkin.ru
+scoala56.com
 serescolacreche.com.br
 sgimpact.be
 sgr26.be
@@ -294,6 +293,7 @@ smi.edu.pk
 sstu-edu.ru
 stagschools.org.uk
 starnoldschoolgodhra.edu.in
+stclairc.on.ca
 stedmunds.act.edu.au
 stenden.edu.za
 stepscollege.edu.pk
