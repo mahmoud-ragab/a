@@ -15,7 +15,6 @@ alfaobjetivo.com.br
 almushir.edu.pk
 alpha.rec.br
 alunoescolassociais.org.br
-ammini.edu.in
 apcnagothane.edu.in
 arkoekelberg.be
 arteveldehs-luca.be
@@ -41,6 +40,7 @@ cecb.g12.br
 cecmg.g12.br
 cejoseleitelopes.com.br
 celsopiva.com.br
+cemuttathara.org
 central.wa.edu.au
 ces.edu.in
 cgist.ac.in
@@ -81,6 +81,7 @@ drgitr.edu.in
 ducic.ac.in
 dut4life.ac.za
 dyptc.edu.in
+eastholmes.k12.oh.us
 eca-jca.edu.au
 ecamoes.com.br
 ecietbu.co.in
@@ -110,6 +111,7 @@ fms.k12.nm.us
 forestcity.k12.ia.us
 franklinlakes.k12.nj.us
 fre6.k12.wy.us
+functionalimperative.com
 gacbbp.edu.pk
 galileilivorno.gov.it
 garibaldidavinci.gov.it
@@ -159,7 +161,6 @@ imconnect.edu.za
 imie-rennes.fr
 indiraisbsmba.edu.in
 intervaleead.com.br
-ironwood.k12.mi.us
 irttech.ac.in
 isd77.k12.mn.us
 isisbernocchi.gov.it
@@ -173,6 +174,7 @@ istitutoromanazzi.edu.it
 istitutoromanazzi.gov.it
 istitutovanoninardo.edu.it
 itg-orebro.se
+itgakersberga.se
 itgksd.se
 itiscardanopv.gov.it
 itispisa.gov.it
@@ -195,6 +197,7 @@ khbo.be
 kingsu.ab.ca
 kitetech.ac.in
 kitssingapuram.ac.in
+kprsb.ac.in
 kpswjg.edu.pl
 krishnacollege.ac.in
 ktemplar.me.uk
@@ -219,8 +222,8 @@ llnrvl.be
 lsm.edu.pk
 mancheopenschool.fr
 mao.edu.pk
-marconi.imperia.it
 mbict.ac.in
+mborijnland.nu
 mcdonaldco.k12.mo.us
 mehrancolleges.edu.pk
 mesponnanicollege.ac.in
@@ -229,7 +232,6 @@ metastem.su
 miguelcouto.com.br
 mnrcoe.edu.in
 morecam.be
-moskbt.ru
 musiekakademie.co.za
 mycput.ac.za
 myemeris.edu.za
@@ -287,13 +289,11 @@ shs.vic.edu.au
 sijo.be
 sirtar.gov.in
 sjcm.be
-skmcollege.co.in
 slp.k12.la.us
 smi.edu.pk
 sstu-edu.ru
 stagschools.org.uk
 starnoldschoolgodhra.edu.in
-stclairc.on.ca
 stedmunds.act.edu.au
 stenden.edu.za
 stepscollege.edu.pk
@@ -306,6 +306,7 @@ sv.k12.oh.us
 swanvalley.k12.mi.us
 szkolyhermes.edu.pl
 tacoma.k12.wa.us
+tallnecks.com
 tattnall.k12.ga.us
 tbst.edu.au
 technology-college.dk
@@ -326,7 +327,6 @@ ubstudents.edu.bz
 ugdynia.edu.pl
 uiit.ac.in
 ukitt.ru
-uniciv.com.br
 unisanraffaele.gov.it
 universitymaharanicollege.ac.in
 uniwest.ac.za
