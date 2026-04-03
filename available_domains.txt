@@ -15,6 +15,7 @@ alfaobjetivo.com.br
 almushir.edu.pk
 alpha.rec.br
 alunoescolassociais.org.br
+ammini.edu.in
 apcnagothane.edu.in
 arkoekelberg.be
 arteveldehs-luca.be
@@ -54,6 +55,7 @@ ckziu.mragowo.pl
 coderfactoryacademy.edu.au
 coersm.ac.in
 colegionsgracascambara.com.br
+college-em.qc.ca
 cpistudent.vic.edu.au
 cpsboe.k12.oh.us
 cptc.ac.in
@@ -81,7 +83,6 @@ drgitr.edu.in
 ducic.ac.in
 dut4life.ac.za
 dyptc.edu.in
-eastholmes.k12.oh.us
 eca-jca.edu.au
 ecamoes.com.br
 ecietbu.co.in
@@ -111,7 +112,6 @@ fms.k12.nm.us
 forestcity.k12.ia.us
 franklinlakes.k12.nj.us
 fre6.k12.wy.us
-functionalimperative.com
 gacbbp.edu.pk
 galileilivorno.gov.it
 garibaldidavinci.gov.it
@@ -161,7 +161,9 @@ imconnect.edu.za
 imie-rennes.fr
 indiraisbsmba.edu.in
 intervaleead.com.br
+ironwood.k12.mi.us
 irttech.ac.in
+iscaextra.net
 isd77.k12.mn.us
 isisbernocchi.gov.it
 isissmotta.gov.it
@@ -173,7 +175,6 @@ istitutomontani.gov.it
 istitutoromanazzi.edu.it
 istitutoromanazzi.gov.it
 istitutovanoninardo.edu.it
-itg-orebro.se
 itgakersberga.se
 itgksd.se
 itiscardanopv.gov.it
@@ -218,6 +219,7 @@ liceomascheroni.gov.it
 liceoscientificoravenna.gov.it
 liceoxxv.gov.it
 littlechute.k12.wi.us
+lkpfu.ru
 llnrvl.be
 lsm.edu.pk
 mancheopenschool.fr
@@ -230,6 +232,7 @@ mesponnanicollege.ac.in
 messedaglia.gov.it
 metastem.su
 miguelcouto.com.br
+mitbio.ac.in
 mnrcoe.edu.in
 morecam.be
 musiekakademie.co.za
@@ -294,6 +297,7 @@ smi.edu.pk
 sstu-edu.ru
 stagschools.org.uk
 starnoldschoolgodhra.edu.in
+stclairc.on.ca
 stedmunds.act.edu.au
 stenden.edu.za
 stepscollege.edu.pk
