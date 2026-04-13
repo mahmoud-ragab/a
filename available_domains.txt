@@ -8,6 +8,7 @@ acst.co.nz
 aduc.ac.ae
 afps.ae
 agu.ac.ae
+aiict.edu.au
 airfoundation.edu.pk
 akron.k12.oh.us
 alankar.edu.in
@@ -55,8 +56,7 @@ ckziu.mragowo.pl
 coderfactoryacademy.edu.au
 coersm.ac.in
 colegionsgracascambara.com.br
-college-em.qc.ca
-cpistudent.vic.edu.au
+collegendv.eu
 cpsboe.k12.oh.us
 cptc.ac.in
 crcmelton.vic.edu.au
@@ -72,7 +72,9 @@ dbschoolofexcellence.edu.in
 dcet.edu.pk
 dcpulwama.edu.in
 depere.k12.wi.us
+deuskey.com
 devacademy.ac.nz
+digischoolmaroc.com
 dikhowmukhcollege.edu.in
 dipsar.ac.in
 distant-aumsu.ru
@@ -82,7 +84,6 @@ dpsfsd.edu.pk
 drgitr.edu.in
 ducic.ac.in
 dut4life.ac.za
-dyptc.edu.in
 eca-jca.edu.au
 ecamoes.com.br
 ecietbu.co.in
@@ -98,6 +99,7 @@ elpotters.k12.oh.us
 emakoski.fi
 emcrescersempre.org.br
 ent-marne.fr
+eprofos.com
 escolamonteirolobatovc.com.br
 espoonlahdenkoulu.fi
 etecdesapopemba.com.br
@@ -175,6 +177,7 @@ istitutomontani.gov.it
 istitutoromanazzi.edu.it
 istitutoromanazzi.gov.it
 istitutovanoninardo.edu.it
+itg-orebro.se
 itgakersberga.se
 itgksd.se
 itiscardanopv.gov.it
@@ -195,7 +198,6 @@ jre.edu.in
 kamyk.warszawa.pl
 khallikotecollege.ac.in
 khbo.be
-kingsu.ab.ca
 kitetech.ac.in
 kitssingapuram.ac.in
 kprsb.ac.in
@@ -205,7 +207,6 @@ ktemplar.me.uk
 ktu.edu.pl
 kv1indore.edu.in
 lcsd.k12.sc.us
-leerling-olve.be
 levelsacademy.edu.pk
 liceoagnesi.gov.it
 liceobanzi.gov.it
@@ -297,8 +298,8 @@ smi.edu.pk
 sstu-edu.ru
 stagschools.org.uk
 starnoldschoolgodhra.edu.in
-stclairc.on.ca
 stedmunds.act.edu.au
+stemobour.org
 stenden.edu.za
 stepscollege.edu.pk
 stfrancisjamnagar.edu.in
@@ -368,6 +369,7 @@ yildirimbeyazit.edu.pl
 ysn.edu.in
 zespolszkolkomunikacji.edu.pl
 zm.edu.pl
+zseo.gniezno.pl
 zsh-sopot.edu.pl
 zso1.olsztyn.pl
 zsp9.edu.pl
